@@ -16,19 +16,22 @@ library(glue)
 library(dplyr)
 library(magrittr)
 
-iconNames = list.files('./icons/',recursive = TRUE) %>%
-    tools::file_path_sans_ext() %>% 
-    stringr::str_replace('/svg/','/') 
+iconNames = list.files('./gameicons/icons/',recursive = TRUE) %>%
+    tools::file_path_sans_ext() 
+    # %>% 
+    # stringr::str_replace('/svg/','/') 
 
 iconNames = iconNames[!grepl('license',iconNames)]
 iconNames = iconNames[!grepl('README',iconNames)]
 iconNames = iconNames[!grepl('CONTRIBUTING',iconNames)]
+iconNames = iconNames[!grepl('NA',iconNames)]
 
+#print(iconNames)
 allTags = list()
 allDescriptions = list()
 #for(icon in iconNames[1:10]){
 for(icon in iconNames[1:length(iconNames)]){
-    print(icon)
+    print(paste(icon, glue('https://game-icons.net/1x1/{icon}.html'), sep=": "))
     page = read_html(glue('https://game-icons.net/1x1/{icon}.html'))
     tags =page %>% 
         html_nodes('a[rel="tag"]') %>% 
@@ -49,3 +52,4 @@ data.frame(name = names(mergedTags),
     tagFrame
 
 readr::write_csv(tagFrame,'iconTags.csv',quote_escape = "backslash")
+print('R Done')
