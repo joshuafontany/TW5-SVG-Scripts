@@ -1,0 +1,6 @@
+caption: healing
+description: Increase the health points of your character with a potion
+A spell cast by a healer is a reliable way to revive party members.
+name: delapouite/healing
+tags: blood life
+title: $:/icons/gameicons/delapouite/healing

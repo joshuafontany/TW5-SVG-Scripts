@@ -1,0 +1,10 @@
+caption: logic-gate-or
+description: INPUT OUTPUT
+A B A OR B
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+name: delapouite/logic-gate-or
+tags: electronic symbol
+title: $:/icons/gameicons/delapouite/logic-gate-or

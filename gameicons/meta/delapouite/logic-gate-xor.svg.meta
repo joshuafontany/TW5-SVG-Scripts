@@ -1,0 +1,10 @@
+caption: logic-gate-xor
+description: INPUT OUTPUT
+A B A XOR B
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+name: delapouite/logic-gate-xor
+tags: electronic symbol
+title: $:/icons/gameicons/delapouite/logic-gate-xor

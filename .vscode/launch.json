@@ -7,11 +7,19 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Process GameIcons",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\process-gameicons.js"
+        },{
+            "type": "node",
+            "request": "launch",
+            "name": "Scrape GameIcons",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\scrape-gameicons.js"
         }
     ]
 }

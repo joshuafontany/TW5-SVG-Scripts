@@ -1,0 +1,5 @@
+caption: card-discard
+description: Disposal of a card. Other players may be able to freely pick it afterwards to improve their deck.
+name: faithtoken/card-discard
+tags: board hand
+title: $:/icons/gameicons/faithtoken/card-discard
