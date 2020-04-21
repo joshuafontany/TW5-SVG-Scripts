@@ -7,6 +7,14 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Process FontAwesome",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\process-fontawesome.js"
+        },{
+            "type": "node",
+            "request": "launch",
             "name": "Process GameIcons",
             "skipFiles": [
                 "<node_internals>/**"
