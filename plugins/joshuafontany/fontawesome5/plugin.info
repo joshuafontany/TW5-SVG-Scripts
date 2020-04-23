@@ -1,15 +1,15 @@
 {
-	"title": "$:/plugins/joshuafontany/gameicons",
-	"name": "GameIcons.net SVGs",
-	"description": "All icons from GameIcons.net in SVG format.",
+	"title": "$:/plugins/joshuafontany/fontawesome5",
+	"name": "FontAwesome5 SVGs",
+	"description": "FontAwesome5 SVGs",
     "dependents": "",
 	"author": "Joshua Fontany",
 	"version": "0.0.1",
-	"icons-version": "1587520254568",
+	"icons-version": "5.13.0",
     "core-version": ">=5.1.22",
-    "created": "1587520237140",
-    "modified": "1587520248170",
+    "created": "1587520741119",
+    "modified": "1587520746119",
 	"source": "https://github.com/joshuafontany/TW5-SVG-Scripts",
 	"plugin-type": "plugin",
-    "list": "readme license contributing"
+    "list": "readme license"
 }
