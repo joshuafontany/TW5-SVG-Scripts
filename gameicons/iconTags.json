@@ -3,7 +3,7 @@
         {
             "name": "andymeneely/police-badge",
             "tags": "police shield symbol",
-            "description": "Symbol of law enforcement. The best moment to show it, it's to shout \\\"FBI\\\" and break the door with a kick."
+            "description": "Symbol of law enforcement. The best moment to show it, it's to shout \"FBI\" and break the door with a kick."
         },
         {
             "name": "aussiesim/card-10-clubs",
@@ -1543,7 +1543,7 @@
         {
             "name": "delapouite/brazil-flag",
             "tags": "flag",
-            "description": "A gold rhombus on a green field encompassing a planet with the national motto \\\"Ordem e Progresso\\\"."
+            "description": "A gold rhombus on a green field encompassing a planet with the national motto \"Ordem e Progresso\"."
         },
         {
             "name": "delapouite/brazil",
@@ -9528,10 +9528,7 @@
         {
             "name": "lorc/all-for-one",
             "tags": "blade weapon",
-            "description": "\\\"All for one, one for all\\",
-            "__parsed_extra": [
-                " a musketeers apology praising team work to defeat foes.\""
-            ]
+            "description": "\"All for one, one for all\" a musketeers apology praising team work to defeat foes.\""
         },
         {
             "name": "lorc/alligator-clip",
@@ -17581,7 +17578,22 @@
         {
             "name": "skoll/famas",
             "tags": "gun police weapon",
-            "description": "An assault rifle, literally \\\"Fusil d'Assaut de la Manufacture d'Armes de Saint-Étienne\\\"\nskoll/fangs,mouth vampire,Dracula's teeth ready to bite.\nskoll/fat,body,A big guy and heavy person involved in Sumo.\nskoll/fetus,life,\"A small embryo growing in a cosy womb, linked to the mother with the umbilical cord."
+            "description": "An assault rifle, literally \"Fusil d'Assaut de la Manufacture d'Armes de Saint-Étienne\"."
+        },
+        {
+          "name": "skoll/fangs",
+          "tags": "mouth vampire",
+          "description": "Dracula's teeth ready to bite."
+        },
+        {
+            "name": "skoll/fat",
+            "tags": "body",
+            "description": "A big guy and heavy person involved in Sumo."
+        },
+        {
+            "name": "skoll/fetus",
+            "tags": "life",
+            "description": "A small embryo growing in a cosy womb, linked to the mother with the umbilical cord."
         },
         {
             "name": "skoll/fist",

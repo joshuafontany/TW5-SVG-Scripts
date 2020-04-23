@@ -1,6 +1,0 @@
-caption: movement-sensor
-description: This device can trigger a loud alarm if an intruder attemps to approach.
-Or maybe it's only a smoke detector to warn people during a domestic fire.
-name: lorc/movement-sensor
-tags: machine sound
-title: $:/icons/gameicons/lorc/movement-sensor

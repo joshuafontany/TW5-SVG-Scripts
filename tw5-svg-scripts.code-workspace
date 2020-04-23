@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"svg.preview.background": "transparent"
+		"svg.preview.background": "transparent",
+		"git.ignoreLimitWarning": true
 	}
 }

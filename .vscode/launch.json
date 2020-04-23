@@ -7,11 +7,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Process FontAwesome",
+            "name": "Process FontAwesome5",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\process-fontawesome.js"
+            "program": "${workspaceFolder}\\process-fontawesome5.js"
         },{
             "type": "node",
             "request": "launch",

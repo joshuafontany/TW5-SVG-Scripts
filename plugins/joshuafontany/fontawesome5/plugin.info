@@ -1,0 +1,15 @@
+{
+	"title": "$:/plugins/joshuafontany/gameicons",
+	"name": "GameIcons.net SVGs",
+	"description": "All icons from GameIcons.net in SVG format.",
+    "dependents": "",
+	"author": "Joshua Fontany",
+	"version": "0.0.1",
+	"icons-version": "1587520254568",
+    "core-version": ">=5.1.22",
+    "created": "1587520237140",
+    "modified": "1587520248170",
+	"source": "https://github.com/joshuafontany/TW5-SVG-Scripts",
+	"plugin-type": "plugin",
+    "list": "readme license contributing"
+}

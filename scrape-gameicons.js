@@ -50,7 +50,9 @@ callR(rscriptPath)
         else{
             console.log(`File saved: ${dest}` );
             if(res) console.log(res);
-        }
+            console.log("Manually inspect the results for double escaped sequences such as `\\\"` and other `__parse` errors. ");
+            console.log("Manually inspect near `skoll/famas` as well.");
+          }
     });
 })
 .catch(error => {
