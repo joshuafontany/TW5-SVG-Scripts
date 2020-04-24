@@ -4,14 +4,14 @@
         "file": "license.txt",
         "fields": {
             "type": "text/plain",
-            "title": "$:/plugins/joshuafontany/gameicons/license"
+            "title": "$:/plugins/joshuafontany/fontawesome5/license"
             }
         },
         {
         "file": "README.md",
         "fields": {
             "type": "text/plain",
-            "title": "$:/plugins/joshuafontany/gameicons/readme"
+            "title": "$:/plugins/joshuafontany/fontawesome5/readme"
             }
         }
     ]

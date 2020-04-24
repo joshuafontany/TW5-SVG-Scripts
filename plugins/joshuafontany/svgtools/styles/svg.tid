@@ -1,0 +1,10 @@
+title: $:/plugins/joshuafontany/styles/svg
+type: text/vnd.tiddlywiki
+tags: $:/tags/Stylesheet
+
+svg.tc-image-icon {
+    width: 1em;
+    height: 1em;
+    padding: 0px 1px 1px 0px;
+    color: <<color "foreground">>
+}
