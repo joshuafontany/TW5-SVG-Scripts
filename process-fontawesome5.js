@@ -91,6 +91,7 @@ fs.readFile(source, 'utf-8', (err, data) => {
                     baseTags = ["$:/tags/Image"];
                 meta.fields = {
                     title: "$:/icons/fontawesome5/"+style+"/"+key,
+                    type: "",
                     name: style+"/"+key,
                     caption: key,
                     style: style,

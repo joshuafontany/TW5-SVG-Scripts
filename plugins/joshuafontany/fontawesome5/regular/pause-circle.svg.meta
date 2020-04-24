@@ -4,3 +4,4 @@ name: regular/pause-circle
 style: regular
 tags: $:/tags/Image hold wait
 title: $:/icons/fontawesome5/regular/pause-circle
+type: 

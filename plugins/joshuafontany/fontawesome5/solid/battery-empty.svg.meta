@@ -4,3 +4,4 @@ name: solid/battery-empty
 style: solid
 tags: $:/tags/Image charge dead power status
 title: $:/icons/fontawesome5/solid/battery-empty
+type: 

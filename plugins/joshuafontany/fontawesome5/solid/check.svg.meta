@@ -4,3 +4,4 @@ name: solid/check
 style: solid
 tags: $:/tags/Image accept agree checkmark confirm correct done notice notification notify ok select success tick todo yes
 title: $:/icons/fontawesome5/solid/check
+type: 

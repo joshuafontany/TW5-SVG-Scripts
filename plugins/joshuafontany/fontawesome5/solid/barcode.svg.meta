@@ -4,3 +4,4 @@ name: solid/barcode
 style: solid
 tags: $:/tags/Image info laser price scan upc
 title: $:/icons/fontawesome5/solid/barcode
+type: 

@@ -64,6 +64,7 @@ fs.readFile(source, 'utf-8', (err, fileContent) => {
         var baseTags = ["$:/tags/Image"];
         svg.fields = {
             title: "$:/icons/gameicons/"+svg.name,
+            type: "",
             name: svg.name,
             caption: svg.name.split('/')[1],
             tags: stringifyList(baseTags)+" "+svg.tags,
