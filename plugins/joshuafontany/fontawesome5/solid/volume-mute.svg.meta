@@ -2,6 +2,6 @@ caption: volume-mute
 description: Volume Mute
 name: solid/volume-mute
 style: solid
-tags: $:/tags/Image audio music quiet sound speaker
+tags: $:/tags/Image audio-video interfaces music status audio music quiet sound speaker
 title: $:/icons/fontawesome5/solid/volume-mute
 type: 

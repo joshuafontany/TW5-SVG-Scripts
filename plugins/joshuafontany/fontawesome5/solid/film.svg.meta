@@ -2,6 +2,6 @@ caption: film
 description: Film
 name: solid/film
 style: solid
-tags: $:/tags/Image cinema movie strip video
+tags: $:/tags/Image audio-video images objects cinema movie strip video
 title: $:/icons/fontawesome5/solid/film
 type: 

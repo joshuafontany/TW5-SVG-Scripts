@@ -2,6 +2,6 @@ caption: wifi
 description: WiFi
 name: solid/wifi
 style: solid
-tags: $:/tags/Image connection hotspot internet network wireless
+tags: $:/tags/Image communication hotel interfaces maps status toggle connection hotspot internet network wireless
 title: $:/icons/fontawesome5/solid/wifi
 type: 

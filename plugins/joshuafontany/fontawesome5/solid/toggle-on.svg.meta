@@ -2,6 +2,6 @@ caption: toggle-on
 description: Toggle On
 name: solid/toggle-on
 style: solid
-tags: $:/tags/Image switch
+tags: $:/tags/Image interfaces status toggle switch
 title: $:/icons/fontawesome5/solid/toggle-on
 type: 

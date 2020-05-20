@@ -2,6 +2,6 @@ caption: file-download
 description: File Download
 name: solid/file-download
 style: solid
-tags: $:/tags/Image document export save
+tags: $:/tags/Image interfaces document export save
 title: $:/icons/fontawesome5/solid/file-download
 type: 

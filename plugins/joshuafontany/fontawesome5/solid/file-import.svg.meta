@@ -2,6 +2,6 @@ caption: file-import
 description: File Import
 name: solid/file-import
 style: solid
-tags: $:/tags/Image copy document send upload
+tags: $:/tags/Image interfaces copy document send upload
 title: $:/icons/fontawesome5/solid/file-import
 type: 

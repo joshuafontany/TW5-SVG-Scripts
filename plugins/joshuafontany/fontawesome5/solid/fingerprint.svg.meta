@@ -2,6 +2,6 @@ caption: fingerprint
 description: Fingerprint
 name: solid/fingerprint
 style: solid
-tags: $:/tags/Image human id identification lock smudge touch unique unlock
+tags: $:/tags/Image interfaces security human id identification lock smudge touch unique unlock
 title: $:/icons/fontawesome5/solid/fingerprint
 type: 

@@ -2,6 +2,6 @@ caption: volume-down
 description: Volume Down
 name: solid/volume-down
 style: solid
-tags: $:/tags/Image audio lower music quieter sound speaker
+tags: $:/tags/Image audio-video interfaces music status audio lower music quieter sound speaker
 title: $:/icons/fontawesome5/solid/volume-down
 type: 

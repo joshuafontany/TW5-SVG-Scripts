@@ -2,6 +2,6 @@ caption: calendar-day
 description: Calendar with Day Focus
 name: solid/calendar-day
 style: solid
-tags: $:/tags/Image date detail event focus schedule [[single day]] time today when
+tags: $:/tags/Image status date detail event focus schedule [[single day]] time today when
 title: $:/icons/fontawesome5/solid/calendar-day
 type: 

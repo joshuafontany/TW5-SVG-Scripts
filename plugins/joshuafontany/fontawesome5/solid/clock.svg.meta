@@ -2,6 +2,6 @@ caption: clock
 description: Clock
 name: solid/clock
 style: solid
-tags: $:/tags/Image date late schedule time timer timestamp watch
+tags: $:/tags/Image date-time date late schedule time timer timestamp watch
 title: $:/icons/fontawesome5/solid/clock
 type: 

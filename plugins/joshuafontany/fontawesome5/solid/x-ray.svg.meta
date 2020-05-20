@@ -2,6 +2,6 @@ caption: x-ray
 description: X-Ray
 name: solid/x-ray
 style: solid
-tags: $:/tags/Image health medical [[radiological images]] radiology skeleton
+tags: $:/tags/Image medical health medical [[radiological images]] radiology skeleton
 title: $:/icons/fontawesome5/solid/x-ray
 type: 

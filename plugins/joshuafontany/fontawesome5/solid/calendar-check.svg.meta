@@ -2,6 +2,6 @@ caption: calendar-check
 description: Calendar Check
 name: solid/calendar-check
 style: solid
-tags: $:/tags/Image accept agree appointment confirm correct date done event ok schedule select success tick time todo when
+tags: $:/tags/Image date-time interfaces status accept agree appointment confirm correct date done event ok schedule select success tick time todo when
 title: $:/icons/fontawesome5/solid/calendar-check
 type: 

@@ -2,6 +2,6 @@ caption: check-circle
 description: Check Circle
 name: regular/check-circle
 style: regular
-tags: $:/tags/Image accept agree confirm correct done ok select success tick todo yes
+tags: $:/tags/Image interfaces toggle accept agree confirm correct done ok select success tick todo yes
 title: $:/icons/fontawesome5/regular/check-circle
 type: 

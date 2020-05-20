@@ -2,6 +2,6 @@ caption: file-pdf
 description: PDF File
 name: solid/file-pdf
 style: solid
-tags: $:/tags/Image acrobat document preview save
+tags: $:/tags/Image files acrobat document preview save
 title: $:/icons/fontawesome5/solid/file-pdf
 type: 

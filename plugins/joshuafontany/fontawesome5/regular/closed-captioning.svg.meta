@@ -2,6 +2,6 @@ caption: closed-captioning
 description: Closed Captioning
 name: regular/closed-captioning
 style: regular
-tags: $:/tags/Image cc deaf hearing subtitle subtitling text video
+tags: $:/tags/Image accessibility audio-video cc deaf hearing subtitle subtitling text video
 title: $:/icons/fontawesome5/regular/closed-captioning
 type: 

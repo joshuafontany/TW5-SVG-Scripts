@@ -1,0 +1,14 @@
+{
+	"title": "$:/plugins/joshuafontany/svgtools",
+	"name": "SVG Tools",
+	"description": "SVG Tools",
+    "dependents": "",
+	"author": "Joshua Fontany",
+    "version": "0.0.1",
+    "core-version": ">=5.1.22",
+    "created": "20200426180357851851",
+    "modified": "20200426180402125125",
+	"source": "https://github.com/joshuafontany/TW5-SVG-Scripts",
+	"plugin-type": "plugin",
+    "list": "readme"
+}

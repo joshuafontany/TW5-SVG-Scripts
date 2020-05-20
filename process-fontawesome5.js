@@ -1,13 +1,27 @@
 const fs = require('fs');
 const path = require('path'); 
+const yaml = require('js-yaml')
 const {gitDescribeSync} = require('git-describe');
 
 var source = './fontawesome5/metadata/icons.json';
+var yamlFile = './fontawesome5/metadata/categories.yml',
+    yamlData, yamlKeys;
 
 const faVersion = gitDescribeSync(path.resolve("./fontawesome5"), {
     requireAnnotated: false
 });
 console.log("Proccesing Fontawesome5 "+faVersion)
+
+try {
+    let fileContents = fs.readFileSync(yamlFile, 'utf8');
+    yamlData = yaml.safeLoad(fileContents);
+    yamlKeys = [];
+    for (let key in yamlData) {      
+        if (yamlData.hasOwnProperty(key)) yamlKeys.push(key);
+    }
+} catch (e) {
+    console.log(e);
+}
 
 //from the tiddler widget
 getFieldStringBlock = function(obj, options) {
@@ -89,6 +103,13 @@ fs.readFile(source, 'utf-8', (err, data) => {
                 }
                 var meta = {},
                     baseTags = ["$:/tags/Image"];
+                for (let j = 0; j < yamlKeys.length; j++) {
+                    var cat = yamlKeys[j],
+                        catObj = yamlData[cat];
+                    if (catObj.icons.includes(key)) {
+                        baseTags.push(cat)
+                    }
+                }
                 meta.fields = {
                     title: "$:/icons/fontawesome5/"+style+"/"+key,
                     type: "",

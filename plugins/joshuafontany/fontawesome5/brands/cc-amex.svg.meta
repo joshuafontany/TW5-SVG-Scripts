@@ -2,6 +2,6 @@ caption: cc-amex
 description: American Express Credit Card
 name: brands/cc-amex
 style: brands
-tags: $:/tags/Image amex
+tags: $:/tags/Image payments-shopping amex
 title: $:/icons/fontawesome5/brands/cc-amex
 type: 
