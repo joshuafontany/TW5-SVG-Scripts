@@ -2,6 +2,6 @@ caption: battery-empty
 description: Battery Empty
 name: solid/battery-empty
 style: solid
-tags: $:/tags/Image energy status charge dead power status
+tags: $:/tags/Icon energy status charge dead power status
 title: $:/icons/fontawesome5/solid/battery-empty
 type: 

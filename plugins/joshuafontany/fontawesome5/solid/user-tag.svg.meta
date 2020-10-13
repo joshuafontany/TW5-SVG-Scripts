@@ -2,6 +2,6 @@ caption: user-tag
 description: User Tag
 name: solid/user-tag
 style: solid
-tags: $:/tags/Image users-people avatar discount label person role special
+tags: $:/tags/Icon users-people avatar discount label person role special
 title: $:/icons/fontawesome5/solid/user-tag
 type: 

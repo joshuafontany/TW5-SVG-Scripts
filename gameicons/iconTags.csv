@@ -121,6 +121,8 @@ darkzaitzev/star-shuriken,ninja spike star weapon,Simple spinning star used duri
 darkzaitzev/tabi-boot,boot ninja,Light shoes with no hard sole producing loud noises. This way discretion is optimal.
 darkzaitzev/three-pointed-shuriken,ninja spike weapon,Three blades are interconnected in the center by a metal ring. But it can only follow one path.
 darkzaitzev/whirlpool-shuriken,ninja spike weapon,Like a small tornado made of blades that could also be taken from a power tool saw.
+delapouite/3d-glasses,eye glass,"Red and blue filters to experience movies with extra dimensions thanks to stereoscopy.
+In the cinema, hard to tell which objects are real and which ones simple pop out of the theater screen."
 delapouite/3d-hammer,hammer tool,To hit on metal in a forge and produce perfect blades.
 delapouite/3d-meeple,board toy,A small wooden character used as tokens by each player. This placeholder is placed on a board to show the game progress.
 delapouite/3d-stairs,building,"A staircase to reach the deeper level of a dungeon or, on the contrary, escape from the darkness one step at the time."
@@ -129,10 +131,12 @@ delapouite/abbot-meeple,board body,A monk in charge of sharing the holy knowledg
 delapouite/achilles-heel,arrow boot greek-roman,"This kind of non obvious weak point can turn into a crucial vulnerability when discovered.
 At least it's not an arrow in the knee!"
 delapouite/acoustic-megaphone,electronic sound,Simple way to scream loudly to a crowd during a strike to give it instructions or orders.
-delapouite/africa,map,This continent is considered the crib of mankind. The north part is covered with desert.
+delapouite/africa,map,"This continent is considered the crib of mankind. The north part is covered by the Sahara desert. Below, the savanna is home of many species like lions, giraffes and elephants."
 delapouite/agave,mexico plant,This dry plant growing in the desert is used to produce Tequila.
 delapouite/ages,board body,"An adult and a child side by side. One person is old and wise, the other one is young and quick."
 delapouite/air-balloon,sky steampunk vehicle,Hot and slow balloon to travel in the clouds and go around the world in less than 80 days.
+delapouite/airplane-arrival,sky vehicle,"After a long flight, this plane is finally landing on the airport."
+delapouite/airplane-departure,sky vehicle,Take off to reach the clouds and start a journey.
 delapouite/airtight-hatch,building door lock science-fiction,This pressurized environment rely on a thick automated seal to protect the inside from the void.
 delapouite/akhet,egypt symbol,A hieroglyph representing the sun rising over a mountain.
 delapouite/alarm-clock,household sound time,"Produces a strident ring to wake you up in the morning. If the hands are not phosphorescent, it's impossible to tell the time in dark room at night."
@@ -141,7 +145,7 @@ delapouite/algeria,map,"Country located north of Africa, on the south bank of th
 delapouite/alien-bug,creature claw science-fiction space,An insectoid alien living in swarm colony and multiplying at big scale in no time.
 delapouite/alien-egg,creature egg tentacle science-fiction space,A monstrous baby about to emerge from its viscous incubation cocoon and start hunting.
 delapouite/all-seeing-eye,eye symbol,"The Eye of providence casting rays. God is watching you, even from dollar bills."
-delapouite/almond,food fruit,"A dry nut used to make milk, cake and biscuits."
+delapouite/almond,food fruit,"A dry nut used to make milk, cake and biscuits like nougat or macarons."
 delapouite/amber-mosquito,insect mineral,A disturbing blood sucker from Jurassic trapped in stone. It contains previous DNA necessary to bring back to life extinct species like dinosaurs.
 delapouite/ambulance,life vehicle,An emergency transportation to carry injured people to the nearest hospital in a hurry.
 delapouite/american-football-ball,australia ball sport,"Give it to the quarterback to score. The rugby ball is quite similar, looking like a long egg."
@@ -203,6 +207,7 @@ delapouite/avocado,food fruit mexico,A big berry with one seed used to produce g
 delapouite/avoidance,arrow,The collision was avoided by bending the trajectories.
 delapouite/axe-in-log,axe wood,A lumberjack is having a break after the tree is on down the forest floor on all branches have been stripped.
 delapouite/axe-sword,axe blade cross,Symbol of lumberjack warriors.
+delapouite/azul-flake,symbol,This symbol is printed on top of light blue Azuleros.
 delapouite/baby-bottle,bottle,Good milk when mum can't naturally feed the starving kid.
 delapouite/baby-face,head,"A toothless smile from a young child, amazed by everything's going on in the surroundings."
 delapouite/babyfoot-players,ball sport toy,Rows of metal soldiers kicking in a ball on a miniature soccer field. This is the kind of game found in bars.
@@ -210,7 +215,7 @@ delapouite/backgammon,board,Roll the dice to move the checker on the correct tri
 delapouite/backpack,bag,Huge bag with lots of pockets to carry the whole objects inventory and common equipment during a hiking trip.
 delapouite/backward-time,arrow gui time,"This clock is going in the counter-clockwise direction, which means it travels to the past."
 delapouite/bacon,meat,Two stripes of salt-cured pork from parts with a lot of fat.
-delapouite/bad-breath,mouth,Horrible odor coming from a zombie teeth made of rotten food or organs decomposition.
+delapouite/bad-breath,mouth zombie,Horrible odor coming from a zombie teeth made of rotten food or organs decomposition.
 delapouite/ball-pyramid,ball,A stack of spheres that remain in perfect balance. It also looks like a pool game seen from above.
 delapouite/ballerina-shoes,boot,Pointy light shoes for star dancers during ballets at the opera. Need strong toes to keep the balance.
 delapouite/balloon-dog,circus toy,This brittle and temporary creation fears spikes and strong winds. These kind of balloons often belon to clowns.
@@ -230,6 +235,7 @@ delapouite/barbecue,australia kitchenware smoke,To cook meat outdoor in the gard
 delapouite/barn,building farm,"Warehouse to store sacks of grain, crops, haystacks or agricultural tractors in a farm."
 delapouite/barracks-tent,building flag world-wars,Temporary place to rest or plan the next strategic move when on the battlefield.
 delapouite/barracks,building flag world-wars,"Infantry's living place in training camps. Inside, bunk beds are organized in rows like soldiers waiting quietly in their garrison."
+delapouite/barrel-leak,container liquid,A suspicious content escaping the open barrel is forming a puddle with disastrous environmental consequences.
 delapouite/barrel,container liquid pirate wood,Big cylindrical alcohol container made of wood. It gives a special taste to the wine and whisky inside.
 delapouite/barricade,building france,A pile of street furniture and barbed wire to protect citizens during strikes and block infantry.
 delapouite/barrier,building door,It's forbidden to cross this fence and follow this path.
@@ -238,9 +244,10 @@ delapouite/baseball-glove,hand sport,To catch the ball during a game and avoid a
 delapouite/basketball-ball,ball sport,Score points in the NBA championship by throwing this ball in the opponent basket.
 delapouite/basketball-basket,sport,Net to score 2 or 3 points depending of the zone.
 delapouite/basketball-jersey,clothing sport,A light shirt with a number on it to distinguish players during a match.
-delapouite/bastet,egypt mammal,A cat statue with a large necklace and sitting in a noble attitude.
+delapouite/bastet,egypt mammal statue,A cat statue with a large necklace and sitting in a noble attitude.
 delapouite/bat-mask,mask,A super hero living in the darkness and talking with a loud voice.
 delapouite/bat,animal mammal vampire,A flying fox living in dark caves. It sleeps upside down and use strident sounds to find its direction.
+delapouite/bathtub,household,Clean your dirty body in the warmth of the bathroom.
 delapouite/battle-mech,robot,A giant metal robot with no apparent weapons but a strong armor to tank through enemy lines.
 delapouite/beach-ball,ball circus sport toy,Big inflatable balloon with stripes to play near the seashore during summer holidays.
 delapouite/beach-bucket,container tool toy,Plastic tools used by kids to build sand castle during summer.
@@ -251,8 +258,10 @@ delapouite/bed-lamp,household light,A simple lamp to read good old books during 
 delapouite/bed,household,"This piece of furniture has a mattress, a blanket and pillows to have a good sleep and eliminate the fatigue."
 delapouite/beehive,building farm insect,Fake house for bees used by beekeeper to harvest delicious honey and make sure the colony flourish.
 delapouite/beer-bottle,bottle food,Alcoholic beverage made of hops and malted cereal grains.
+delapouite/beer-horn,liquid viking,A bull's horn to drink mead during feasts.
 delapouite/beet,food fruit super-mario,Tubercle producing a pink blood when mixed with mayonnaise sauce. It's a big source of sugar.
 delapouite/belgium,map,Small European country where is located the EU council in Brussels.
+delapouite/bellows,fire smoke tool,"In a forge, the fire needs to be kept strong for the blacksmith to perform well."
 delapouite/belt-armor,armor metal,Lots of useful gadgets can be attached around this heavy belt with a locked plate in the middle.
 delapouite/berries-bowl,ball food fruit stone-age,"The result of a good fruit picking session in the forest: strawberries, blueberries…"
 delapouite/berry-bush,fruit wood,Berries growing on a small tree ready to be picked and turned into jam.
@@ -278,7 +287,7 @@ delapouite/body-balance,body circus sport,All the muscles are contracted to stay
 delapouite/body-height,arrow body rank,Distance between the toes and the tip of the head. This measurement distinguish tall people from small ones.
 delapouite/bolivia,map,"Landlocked country of South America located on the Altiplano of the Andean mountain range.
 The capital is Sucre."
-delapouite/bolt-bomb,bomb lightning,An electrical explosive that destroys surrounding devices like an EMP.
+delapouite/bolt-bomb,bomb energy lightning,An electrical explosive that destroys surrounding devices like an EMP.
 delapouite/bolt-cutter,lock metal tool,To cut through fences and barbed-wires. Locks can also quickly be broken by the lever effect of this huge plier with almost no efforts.
 delapouite/bolt-drop,energy liquid,The lightning bolt is trapped inside this compact liquid.
 delapouite/bolt-spell-cast,hand lightning,A magic incantation to electrocute an enemy with a huge surge of electricity.
@@ -394,6 +403,7 @@ delapouite/caveman,body stone-age,"This primitive human being is our ancestor. H
 delapouite/cctv-camera,electronic,A surveillance device to spy on honest citizens and record their moves.
 delapouite/ceiling-barnacle,creature trap,A long tongue coming from above to strangle and digest.
 delapouite/ceiling-light,household light,A powerful light bulb is illuminating the room. There's a switch on the wall to turn it off.
+delapouite/cellar-barrels,container farm france,Wine or whisky being kept in the coolness of an underground winery.
 delapouite/centaur,creature greek-roman mammal,A mythical being half man half horse who usually carries a bow with him.
 delapouite/ceremonial-mask,mask,The healer of this tribe wears this painted mask to drive away spirits.
 delapouite/chainsaw,machine tool wood zombie,Used by modern lumberjacks to quickly cut logs or by survivors to amputate zombies limbs.
@@ -430,6 +440,7 @@ delapouite/cigarette,poison smoke,Burning stick of tobacco and nicotine that lea
 delapouite/circle,ball gui,A round outline to create a border.
 delapouite/circling-fish,fish,"2 fish going around in circle, pursuing each other in an endless loop."
 delapouite/city-car,car vehicle,Small automobile to commute to work and drive your family slowly in the streets.
+delapouite/clamp,tool,To keep two pieces of wood stuck together.
 delapouite/clapperboard,cinema gui,A famous cinema sound made before each filmed sequence in a movie.
 delapouite/claws,claw insect,A pair of crab or insectoid hands.
 delapouite/clay-brick,stone stone-age,Material to build pottery or walls of simple houses.
@@ -447,7 +458,7 @@ delapouite/cloud-upload,arrow gui,Send a file to the data center of a big compan
 delapouite/clown,circus head,A funny guy with a big red nose which often bring balloons to children.
 delapouite/clownfish,animal fish,A friendly orange fish with white stripes also called anemonefish because it likes to hide in anemones.
 delapouite/coal-wagon,vehicle,Part of a long train convoy transporting coal.
-delapouite/cobra,reptile,This snake has large decorated wings around its head to make it even more fearful.
+delapouite/cobra,egypt reptile,This snake has large decorated wings around its head to make it even more fearful.
 delapouite/coconuts,fruit,Tropical nut falling from palm trees with white juice inside.
 delapouite/coffee-beans,food plant,Mixed to prepare a tasty beverage.
 delapouite/coffee-cup,food liquid kitchenware,Energy drink during each break to fight sleepiness and kick-starts the day in the morning.
@@ -457,7 +468,8 @@ delapouite/coins,board metal money,Piles of money or poker chips without strips.
 delapouite/coliseum,building greek-roman,Ancient stadium in Rome where gladiators were fighting and pleasing the crowd.
 delapouite/colombia,map,"Country of South America sadly famous for the drug cartels.
 The capital is Bogotá."
-delapouite/colombian-statue,stone,Old idol carved in stone to be adored during social gatherings.
+delapouite/colombian-statue,mexico statue stone,Old idol carved in stone to be adored during social gatherings.
+delapouite/column-vase,greek-roman,This old vase is probably full of dust after all those years standing untouched in this temple.
 delapouite/commercial-airplane,sky vehicle wing,A plane carrying passengers between airports on regular flights.
 delapouite/compact-disc,electronic gui sound,"Store music, games or movies. It spins in CD or DVD players."
 delapouite/companion-cube,container heart,The ultimate empathy test when Shell is about to destroy it in Portal following the orders of Glados.
@@ -508,6 +520,7 @@ delapouite/crook-flail,cross egypt tool,Heka and nekhakha with stripes of blue o
 delapouite/cross-shield,cross shield,Nails surround the metal frame of this shield with a cruciform emblem in the center.
 delapouite/crosscut-saw,farm tool wood,Two lumberjacks are needed to cut through this massive trunk.
 delapouite/crosshair,cross gun target,A sniper relies on this visual help during a long distance shot.
+delapouite/crossroad,map,"Choose the path to follow your quest: left or right, there's no other choice."
 delapouite/crow-nest,boat flag pirate sea,Lookout at the top of the main mast on a ship before radar was invented.
 delapouite/crowbar,tool video-game weapon zombie,A wrecking bar useful to destroy walls or timber. The favorite weapon of Gordon Freeman.
 delapouite/crucifix,cross vampire wood,Holy symbol of a dying Jesus Christ to keep away vampires.
@@ -531,6 +544,7 @@ delapouite/dango,food,Japanese dumpling made of rice flour and served with green
 delapouite/dart,arrow toy,"This dart is not poisoned, it's only meant to be played in bars and earn points by hitting the center of the target."
 delapouite/database,container gui,A silo containing precious data that can be queried.
 delapouite/dead-head,death head state zombie,A blank stare with the tongue outside the mouth.
+delapouite/deer-track,animal mammal,A hunter can rely on these marks on the ground to follow the game.
 delapouite/defense-satellite,science-fiction space,A space platform with artificial gravity defending nearby asteroids fields with nukes.
 delapouite/delivery-drone,robot vehicle,A small flying helicopter in charge of carrying small packages.
 delapouite/desert,nature plant mexico western,Very hot nothingness covered with burning sand until the horizon with only a few cactus and no drinkable water.
@@ -582,6 +596,8 @@ delapouite/double-street-lights,building light,"During the night, a dim light is
 delapouite/dough-roller,kitchenware wood,"Cuisine utensil used to flatten dough and prepare cakes or pizzas.
 It's possible that cooks use this as a weapon during a fight in a bakery."
 delapouite/dragon-orb,ball claw,A mystic diviniation sphere resting in a reptilian palm.
+delapouite/dragon-shield,shield,"Can this protection sustain the fire-breath of a dragon?
+Only a mighty adventurer may prove it."
 delapouite/drakkar-dragon,boat creature viking,A threatening mythical animal head with horns carved in the wood of a Viking ship bow.
 delapouite/drakkar,boat sea viking,"Viking ship with a fearsome dragon at the front and shields along the sides.
 This is the kind of boat this fierce people used to invade French Normandy and even discover Canada."
@@ -612,12 +628,13 @@ delapouite/eating-pelican,bird fish,The massive beak of this huge bird can engul
 delapouite/eating,action food mouth,"Consume good food during breakfast, lunch or dinner to nourish your body. Don't forget to chew before swallowing."
 delapouite/ecology,map nature,Protection of the environment with clean energies and good practices to reduce global warming.
 delapouite/eel,fish reptile,This aquatic snake like fish may fight against a lamprey.
+delapouite/egg-eye,egg eye,A crack in the shell let the curious stare of a new born exploring the surroundings.
 delapouite/egypt,egypt map,"North African country encompassing the Nile delta. It used to be the kingdom of Pharaohs.
 The capital is Cairo."
 delapouite/egyptian-bird,bird egypt,A hieroglyph figure of a small hawk resting calmly.
 delapouite/egyptian-profile,egypt head,A classical picture on painted walls of an egyptian citizen during the ancient empire.
 delapouite/egyptian-pyramids,building egypt,"Huge geometric wonders build by Pharaohs as their final mausoleum in the desert. Thousands of slaves contributed to the construction, with still unknown techniques."
-delapouite/egyptian-sphinx,building creature egypt,Massive statue with a broken nose near the pyramids in the desert. It may ask you some riddles.
+delapouite/egyptian-sphinx,building creature egypt statue,Massive statue with a broken nose near the pyramids in the desert. It may ask you some riddles.
 delapouite/egyptian-temple,building civilization egypt,A desert castle with obelisks on each side of the gate.
 delapouite/egyptian-urns,container death egypt,Decorated pottery to keep the organs during an embalming ritual.
 delapouite/egyptian-walk,body egypt,"Walk sideway, like an Egyptian with weird angles at shoulders and elbows."
@@ -696,9 +713,11 @@ delapouite/fingernail,claw hand,This strong transparent piece protect the tips o
 delapouite/finish-line,door rank sport,"The end of the race is near, the winner just has to cross the line."
 delapouite/fire-extinguisher,fire tool,A life saving device that projects water or CO2 on blazing flames to choke them during emergencies.
 delapouite/fire-flower,fire plant super-mario,"When Mario or Luigi blow on the petals, it casts fire balls."
+delapouite/fire-gem,fire jewellery mineral,"With this precious artifact, a magician can summon fire spirits and use flames to fight enemies."
 delapouite/fire-shrine,fire light,A simple magic flame to invoke fire spirits.
 delapouite/fire-spell-cast,fire hand,A magic power starting from a spark and ending in a formidable arson.
 delapouite/fireplace,fire household,Put wood logs in this to warm the house during cold periods.
+delapouite/firewall,fire trap,A hot barrier with no way to go through without protection.
 delapouite/first-aid-kit,life,"When there's an injury, medicines are needed."
 delapouite/fish-bucket,container fish,These dead animals are the result of a fishing afternoon.
 delapouite/fish-eggs,fish egg,"On the bottom of the river, dozens of eggs will become tiny fish."
@@ -722,8 +741,10 @@ delapouite/flanged-mace,weapon,A heavy club with reinforced flanges in metal.
 delapouite/flashlight,electronic light machine police,Hand device spreading light into darkness to search the correct safe path.
 delapouite/flat-platform,block,A square ground with a small step.
 delapouite/flat-tire,car vehicle,A sharp nail pierced this wheel which now needs to be repaired. The hole will need to be corked before getting back at full pressure.
+delapouite/flatfish,fish,A plaice can slip under narrow traps and avoid fishermen's nets.
 delapouite/flax,plant,"A fiber crop also knows as linseed, used to produce linen clothes."
 delapouite/fleur-de-lys,flag symbol,This flower is the royal symbol of French kings.
+delapouite/flexible-lamp,household light,"In the shadows of a dark office, a bit of light near the desk is mandatory to keep writing."
 delapouite/flint-spark,explosion fire stone stone-age,The chock between these two rocks will produce the flame needed to lit the fire.
 delapouite/flip-flops,australia boot,Casual sandals to wear during summer on the beach. They are called thongs in Australia.
 delapouite/floating-ghost,creature,A goofy angel helping poor souls to reach better places.
@@ -749,6 +770,7 @@ delapouite/footy-field,australia sport,"Australian soccer, a spicy mix of Europe
 delapouite/forearm,anatomy hand,"Extremity of the superior limb, can be covered with gauntlets."
 delapouite/forest-camp,nature wood,A tent near at pine tree to stay for a while in the calm.
 delapouite/forest,nature wood,Impenetrable patch of pine trees in the country. This forest does not seem haunted.
+delapouite/fork-knife-spoon,kitchenware tool,This trio of metal sticks just need a plate and be placed on the table of a restaurant.
 delapouite/forklift,vehicle,A small industrial truck to move heavy crates in a warehouse.
 delapouite/foundry-bucket,container metal,High temperature metal being poured in a steelworks factory.
 delapouite/fox-tail,animal mammal,"Tails, Sonic's friend, has two of this mighty fire hair parts."
@@ -757,6 +779,7 @@ delapouite/freemasonry,map tool symbol,Fraternal organisation secretly ruling th
 delapouite/french-fries,food,A Belgian dish made of potatoes cooked in oil.
 delapouite/fried-eggs,bird egg food,"Ready for breakfast, just waiting for the bacon and cheese."
 delapouite/frisbee,sport,A plastic disc you throw on the beach for fun or during golf competitions.
+delapouite/frog-foot,reptile,This sticky foot has a perfect grip to climb wall like geckos.
 delapouite/frog-prince,hat reptile,This ugly toad can be transformed back to its original human nature by a simple kiss from a princess.
 delapouite/frozen-body,body ice trap,This person is trapped in a giant ice cube that will never melt.
 delapouite/frozen-ring,ice jewellery,Ths icy spikes will probably melt if this ring is activated.
@@ -767,6 +790,7 @@ delapouite/full-folder,book gui,Many documents grouped in around a common subjec
 delapouite/full-metal-bucket-handle,container metal,
 delapouite/full-metal-bucket,container metal,
 delapouite/full-motorcycle-helmet,hat vehicle,This helmet protects the head of drivers while having an accident during a bike ride.
+delapouite/full-pizza,food,This italian tomato cake is ready to be shared between all the hungry people of the party.
 delapouite/full-wood-bucket-handle,container farm wood,
 delapouite/full-wood-bucket,container wood,
 delapouite/funnel,bottle gui household,Filter thick syrup with big blobs or unidentified chunks to obtain clear liquids.
@@ -778,7 +802,7 @@ delapouite/galea,greek-roman hat,Roman helmet for soldiers and centurions.
 delapouite/galley,boat,This ship is moved by the raw power of slaves oars. This vessel roams across the Mediterranean sea.
 delapouite/game-console,electronic toy video-game,"Plug a cartridge, turn on, press start after the quick loading menu and you're ready to enjoy the video game."
 delapouite/gamepad,electronic gui toy video-game,Interface you hold in your hands to play with video games on console.
-delapouite/gargoyle,creature stone,This winged monster seat on top of churches or castles and take care of the rain.
+delapouite/gargoyle,creature statue stone,This winged monster seat on top of churches or castles and take care of the rain.
 delapouite/garlic,farm fruit food plant vampire,Strong vegetable hated by vampires.
 delapouite/gas-pump,car machine vehicle,Oil distributor in service stations. Two main flavors of fuel are available: unleaded or diesel.
 delapouite/gate,building door,The access to the property is defended by these pointy bars of metal.
@@ -904,6 +928,7 @@ delapouite/holy-water,bottle cross liquid vampire,Liquid blessed by a monk durin
 delapouite/home-garage,building car door vehicle,A part of the house to protect the car from the weather. It's often turn into a tool shed.
 delapouite/honey-jar,animal bottle food,A sweet liquid produced by bees.
 delapouite/hoodie,clothing sport,Street wear to keep the head and hands warm.
+delapouite/hook,tool,A metal spike to suspend heavy objects or meat.
 delapouite/hops,plant,Flowers used to flavored beer and give it the bitter taste like in Indian Pale Ales.
 delapouite/horizontal-flip,arrow gui,Mirror effect on the x axis.
 delapouite/horned-reptile,creature head reptile,This long skull may come from a planet where snakes rule the world.
@@ -927,10 +952,13 @@ delapouite/hut,building stone-age,"A simple house or cabin made of clay, woods a
 delapouite/huts-village,building civilization stone-age,A primitive settlement with a few cabins.
 delapouite/i-beam,building metal,Steel beam to serve as framework under concrete for huge buildings and tall constructions.
 delapouite/i-brick,block,This is the vertical bar needed to remove 4 rows in one delightful action.
+delapouite/ibis,bird egypt,A long legged wading bird that inhabit wetlands and swamps. They look like herons.
 delapouite/icarus,greek-roman star wing,Icarus was getting to close of the sun and felt to his death like a doomed angel.
 delapouite/ice-cream-cone,food ice,"A fresh dessert with many flavors : chocolate, vanilla, fruit... It's perfect for summer times."
+delapouite/ice-cream-scoop,kitchenware,A speficic spoon to make perfect cold dessert balls.
 delapouite/ice-cubes,glass ice,A fresh beverage to eliminate the thirst.
 delapouite/ice-golem,creature ice viking,A terrific and powerful giant made of hard and shiny ice. This kind of monster is vulnerable to fire attacks.
+delapouite/ice-iris,eye ice,A cold stare that freezes the target.
 delapouite/ice-pop,food ice,"A frozen lolly, a popsicle"
 delapouite/ice-skate,boot ice sport,Laces shoe with a blade on the bottom to slide on ice rings or frozen lakes during recreation or competition like hockey.
 delapouite/ice-spell-cast,hand ice,A magic incantation to throw deadly icicles or freeze a target.
@@ -953,6 +981,7 @@ delapouite/intricate-necklace,jewellery,This artifact has an hexagonal gem in it
 delapouite/invisible-face,head mask,A head wrapped in bandages with sunglasses.
 delapouite/invisible,body,Perfect transparency that no mortal eye can detect.
 delapouite/ionic-column,building greek-roman,Special order pillar to support the roof of ancient temple.
+delapouite/iraq,map,"Country in the Middle East, with Badgad as capital"
 delapouite/island,building pirate sea wood,"Small patch of land and sand lost in the immensity of the ocean.
 A beautiful desert beach with only a palm trees but no survivor."
 delapouite/italia,greek-roman map,"Mediterranean country in a boot shape, home the Roman empire and famous for its pizzas and pastas."
@@ -1008,9 +1037,12 @@ delapouite/koala,animal australia mammal,This sleepy grey bear enjoys chewing Eu
 delapouite/kraken-tentacle,boat creature sea tentacle,"Coming from the abyss, this huge octopus is about to wreck this galleon."
 delapouite/l-brick,block,
 delapouite/lab-coat,chemical clothing,This white blouse belongs to a scientist or a doctor.
+delapouite/labrador-head,animal mammal,"This dog is good boy, a nice pet to take care of."
 delapouite/ladder,building tool,To climb upstairs to the next floor or go down in a basement.
+delapouite/ladders-platform,tool,A climing path leading to a kong and a princess.
 delapouite/ladle,kitchenware metal,A big spoon to serve soup during dinner.
 delapouite/ladybug,insect,This round red bug can fly and is friendly to gardener.
+delapouite/laptop,electronic household,"A personal computer with everything included: screen, and laptop in a portble unit."
 delapouite/large-dress,clothing,A spring light dress for women.
 delapouite/large-paint-brush,gui tool,The old tapestry on the wall is faded. Time to refresh the painting with large stripes of vivid colors.
 delapouite/laser-turret,building energy science-fiction weapon,A red light beam powered by remote electrical sources about to pierce through heavy shielding.
@@ -1020,6 +1052,7 @@ The capital is Riga."
 delapouite/laurels-trophy,rank sport,A cup given to the winner of the competition surrounded by leaves from the emperor crown.
 delapouite/lead-pipe,cluedo metal tool weapon,A hollow cylinder conveying water. Dangerous for the health because of saturnism or Cluedo murderers.
 delapouite/leak,liquid,These drops will form an ocean… soon.
+delapouite/leapfrog,action sport,A high jump above a sport partner during a gymnastics exercise.
 delapouite/leather-armor,armor clothing,A chest protection for female warriors with a small utility belt.
 delapouite/led,electronic light,Light emitting diode used in small device to show if a functionality is enabled.
 delapouite/leek,fruit,"This white and green vegetable is the perfect ingredient for soup.
@@ -1044,10 +1077,11 @@ delapouite/lighter,fire household light,"Useful to lit cigarettes, pipes or bomb
 delapouite/lighthouse,building light sea,"Sailors refer to these flashing lights on the sea shore indicating harbors entrances and dangerous reefs to avoid.
 Nowadays they're almost all automatically managed."
 delapouite/lightning-dome,glass lightning,An electrical experimentation is happening in this glass bubble.
+delapouite/lightning-flame,fire lightning,"During a violent storm, trees are vulnerable to lightining which can set them ablaze."
 delapouite/lily-pads,egypt liquid plant,Huge round leaves floating in ponds where the frogs can rest in the shadow of magnificent flowers.
 delapouite/lipstick,household mouth,To put red makeup around the mouth to feel prettier during seduction.
 delapouite/liver,anatomy,An internal organ in the belly responsible of managing how alcohol is assimilated.
-delapouite/load,electronic gui,Lading data from a floppy disk
+delapouite/load,electronic gui,"Loading data from a floppy disk to restore a saved file, and continue the game where it was previously stopped."
 delapouite/lock-picking,lock police tool,Small pieces of metal used by robbers to break into a secure room or a safe.
 delapouite/lock-spy,eye lock,Piercing through intimacy to observe some secrets during a private meetings behind a closed door.
 delapouite/locked-box,container lock,The content of this crate must remain secret and well protected during transportation.
@@ -1111,6 +1145,7 @@ delapouite/lunar-wand,weapon,A magical scepter with a crescent
 delapouite/lungs,anatomy,Organs to breath oxygen.
 delapouite/lynx-head,animal mammal,A bobcat with pointy chins and hears.
 delapouite/machine-gun-magazine,gun,Ammo for an automatic weapon. It needs to be reloaded oftern.
+delapouite/magic-axe,axe,Runes offers a mystical energy to this weapon that can cut through metal like butter.
 delapouite/magic-hat,circus hat,A white rabbit is revealed by the magician in this famous trick.
 delapouite/magic-potion,bottle celtic chemical container,"When you drink this powerful mixture prepared by ancient druids from this waterskin, you become invincible for a short period."
 delapouite/magic-trident,spike weapon,A fork dealing triple damages. It's as sharp as a trio of knives piercing at various angles.
@@ -1139,6 +1174,8 @@ delapouite/medallist,body rank sport,The winner of a race or a championship with
 delapouite/medical-thermometer,life,To measure the temperature of a patient during fever.
 delapouite/medicine-pills,chemical life poison,Bits of cure against illnesses and headaches.
 delapouite/medicines,chemical life,A handful of drugs to heal nasty diseases and restore body energy to its maximum.
+delapouite/medieval-barracks,building,"This garnison is the training ground for infantry soldiers.
+A military camp like this one is well prepared for attack."
 delapouite/medieval-gate,building,Two rounded towers protecting the entrance of a castle.
 delapouite/medieval-pavilion,building circus flag greek-roman,Big tent on war camps. Could be the generals headquarters or the infirmary.
 delapouite/meeple-group,board toy,"A crowd of meeples: it can represents a small army, a band of peasants or even prisoners.
@@ -1170,7 +1207,7 @@ delapouite/mining-helmet,hat,"Mines are narrow and dark tunnels where the ceilin
 Having a helmet with a mounted light is part of the survival equipment in this job.
 If you remove the torch, you may look like an engineer."
 delapouite/missile-launcher,weapon,Ground air attack battery with a missile able to strike on another distant continent.
-delapouite/moai,building civilization,Enigmatic statue on Easter island in the Pacific Ocean.
+delapouite/moai,building civilization statue,Enigmatic statue on Easter island in the Pacific Ocean.
 delapouite/modern-city,building civilization,A big town with high and shiny skyscrapers forming the Central Business District.
 delapouite/moka-pot,household kitchenware,An Italian kettle to boil coffee.
 delapouite/moldova,map,This country is the native place of Vigo the Carpathain.
@@ -1189,6 +1226,7 @@ delapouite/morgue-feet,boot death,A corpse tagged for autopsy by the forensic me
 delapouite/morph-ball,ball,A flexible armor turned into a rolling and compact shape to access narrow places.
 delapouite/mortar,gun weapon world-wars,Heavy weapon to shot round shells kilometers away.
 delapouite/mountain-cave,nature,"A dark entrance to explore the undergrounds, probably a mine."
+delapouite/mountain-road,nature,This twisted path can reach the summits of this mountain range.
 delapouite/mouse,electronic gui household video-game,Computer device to move the cursor and click on links. More precise than a keyboard.
 delapouite/move,arrow cross gui,To change elements coordinates.
 delapouite/mp5,gun police weapon,Automatic riffle used in modern warfare.
@@ -1206,6 +1244,7 @@ delapouite/mussel,food sea shell,A black and yellow seafood often prepared with 
 delapouite/mustache,hat head,A large mustache on a noseless face with a hat
 delapouite/mute,head mouth sound,"A finger blocking the lips for saying anything : to keep the secret, you have to remain quietly in silence."
 delapouite/nachos,food mexico,Tortilla chips covered with melted cheese that may dipped in guacamole.
+delapouite/nano-bot,robot,This microscopic robot can penetrated in blood vessels to perform work.
 delapouite/neck-bite,blood mouth vampire,Vampires withdraw fresh vital juice from innocent victims right from their carotid artery.
 delapouite/necklace-display,jewellery,This broad velvet collar is supported by a fake head.
 delapouite/nefertiti,egypt hat head,"Egyptian Queen, wife of the pharaoh Akhenaten."
@@ -1226,6 +1265,7 @@ delapouite/noodles,food,Pasta made of rice that must be eaten with chopsticks.
 delapouite/nose-front,head,Smell is one of the five sense in the middle of the face.
 delapouite/nose-side,anatomy head,To smell perfume or food burning.
 delapouite/nuclear-plant,building energy smoke,A power factory feeding the electric grid by breaking uranium atoms and vomiting steam through huge chimneys.
+delapouite/nuclear-waste,chemical container,Barrels with a hazard sign warning about the dangerous radioactive content inside.
 delapouite/nunchaku,ninja weapon,Asian martial nunchuks made of two sticks connected by a chain. This is the weapon of choice of Michelangelo.
 delapouite/nurse-female,head life,"This person assits surgeons and doctors during their operations, taking care of patients in hospitals."
 delapouite/nurse-male,head life,"This person assits medics and doctors during their diagnosis, taking care of patients in clinics."
@@ -1241,7 +1281,7 @@ delapouite/offshore-platform,building sea,An oil rig extracting the precious liq
 delapouite/ogre,creature head medieval-fantasy,A gluttonous cousin of the orcs that don't hesitate to battle against trolls to grab a good meal.
 delapouite/oil-pump,building liquid,Petrol extractor: it harvests precious combustible from the ground in deserted areas.
 delapouite/oil-rig,building,Precious fuel collected from this tower.
-delapouite/old-lantern,light steampunk,This object needs oil to produce a dim light.
+delapouite/old-lantern,light steampunk western,This object needs oil to produce a dim light. It can be used to brighten the darkness of a mine.
 delapouite/old-microphone,electronic sound,Audio sensor used a few decades ago during radio show.
 delapouite/old-wagon,vehicle western,Transportation to reach the West in Oregon trail.
 delapouite/olive,food fruit greek-roman plant,A branch with olives that may be pressed to produce oil.
@@ -1285,6 +1325,7 @@ delapouite/parasaurolophus,reptile,"A dinosaur with a long crest behind its cran
 delapouite/park-bench,household nature wood,A long wooden seat where couples or family can rest.
 delapouite/party-flags,circus flag household,"During a birthday party or new year's eve, these long banners decorate the place where the celebration occurs."
 delapouite/party-hat,hat star,It's new year's eve and every guests at the party is disguised as a fool.
+delapouite/party-popper,household,A small explosive cone for birthday parties or new year eves.
 delapouite/passport,book,An official document providing indentity needed to cross borders and visit other countries.
 delapouite/path-distance,gui map,A dotted path itinerary between two points.
 delapouite/path-tile,nature,A dirt patch with small stones and dust seen from above. Grass may grow if this land turns to mud.
@@ -1299,6 +1340,7 @@ delapouite/pelvis-bone,anatomy bone,"A large structural bone under the hips and 
 delapouite/pencil-brush,book cross gui,"First the main guide lines of the drawing are made, then some colors are added to the shapes."
 delapouite/pencil-ruler,cross book,Tools needed to trace a straight line on a paper.
 delapouite/pencil,book gui household,"Wooden pen to write things down on paper, like an official document or a letter."
+delapouite/pendant-key,jewellery lock string,"This key is always carried around someone's neck, so it has to open a precious lock."
 delapouite/pendulum-swing,ball time toy,"Infinite balancing, inertia. Only move one on the side and watch the chain reaction."
 delapouite/penguin,animal bird ice,"This bird live in freezing areas, like Antarctica. It's not able to fly but it's an excellent swimmer."
 delapouite/periscope,boat sea,Device expanded from submarines to visually probe what's going on above the waterline.
@@ -1318,7 +1360,7 @@ delapouite/perspective-dice-six,dice,
 delapouite/perspective-dice-three,dice,
 delapouite/perspective-dice-two,dice,
 delapouite/peru,map,Country from South America famous for the Inca civilization and ceviches.
-delapouite/pharoah,egypt mask,"God among slaves, wearing beautiful jewelry."
+delapouite/pharoah,egypt mask statue,"God among slaves, wearing beautiful jewelry."
 delapouite/phone,gui sound,To have a remote conversation with someone.
 delapouite/photo-camera,electronic gui,Optic device to take pictures and immortalize visual memories on film.
 delapouite/phrygian-cap,france hat,Symbol of freedom during the French Revolution. Now worn by Marianne on postal stamps.
@@ -1351,11 +1393,13 @@ delapouite/plague-doctor-profile,bird hat mask,A medical physician specialist in
 delapouite/plain-arrow,arrow gui,Fat arrow heavily pointing to the way to follow.
 delapouite/plain-circle,ball gui,A full disc with no imperfections.
 delapouite/plain-square,gui,The area can be calculated with a power of 2.
+delapouite/plane-pilot,head,"With special goggles, this driver can flight for long distances."
 delapouite/plane-wing,vehicle wing,Needed on both side of the air plane to make it fly through the air.
 delapouite/planet-conquest,flag space,Space exploration is a race where the first to land own the land.
 delapouite/planet-core,ball space,Layers of molten lava protecting the magnetic core under the surface crust.
 delapouite/planks,wood,Timber pieces found in a joinery to build cabinets.
 delapouite/plant-roots,farm plant,"The underground network of a flower, growing in the soil."
+delapouite/plant-watering,farm liquid plant,Rain or nutritive water coming from a can is the most basic secret to keep plant growing.
 delapouite/plastic-duck,bird toy,This yellow ducling floats in the bath between foam.
 delapouite/player-base,board building,The head-quarter of the troops is located in this place.
 delapouite/player-next,arrow board,The game turn goes forward and a new player has to decide what action to perform.
@@ -1386,6 +1430,7 @@ delapouite/position-marker,gui map,Waypoint showing a specific location on a map
 delapouite/post-stamp,book,
 delapouite/potato,food fruit,"A tuberous vegetable from America which is now ubiquitous in meals: mash, chips, crisps…
 It's also a good battery for Glados."
+delapouite/pouring-pot,kitchenware liquid,This bottle can carry milk or water during meals.
 delapouite/powder-bag,bag,"A big burlap bag with tiny grains, like seeds, salt or sugar. It can also be spices."
 delapouite/power-generator,energy machine science-fiction,A metal box producing electricity by concentrating static energy available in the air.
 delapouite/power-ring,jewellery,The small ruby may be magic or simply serves to show its owner wealth.
@@ -1397,6 +1442,7 @@ delapouite/previous-button,gui,Skip to the previous track of the album.
 delapouite/price-tag,gui money,A small message attached to objects in shops to indicate how much money they cost.
 delapouite/primitive-necklace,bone jewellery stone-age,A shaman decoration to perform rituals around the fire and save the tribe.
 delapouite/primitive-torch,fire wood stone-age,Like a big match with a longer lifetime to pierce into a darkness.
+delapouite/prism,glass light,The light ray going through this piece of glass feels like The Dark side of the Moon.
 delapouite/prisoner,body police,"A (guilty ?) person in jail, behind bars. There's no way to escape without the security code."
 delapouite/private-first-class,rank,1 stripe and a bottom loop for this special military rank.
 delapouite/private,rank,1 stripe for this rookie military rank.
@@ -1446,6 +1492,7 @@ delapouite/rhinoceros-horn,animal mammal,Big attack spike on the nose.
 delapouite/rialto-bridge,bridge,A famous bridge across the Grand Canal of Venice in Italy.
 delapouite/ribbon-medal,rank,A star shape award.
 delapouite/ribbon-shield,rank shield,"In case of victory, the name of the winner will be attached to the fabric."
+delapouite/ring-box,jewellery,This gem on a ring can be offered as a present during a wedding ceremony between spouses.
 delapouite/ring-mould,metal tool,Melted gold flows through the pattern to forge new jewellery.
 delapouite/ring,hand jewellery,One ring to rule them all.
 delapouite/ringing-alarm,sound trap,Alert! A warning is triggered : it's either the end of school or someone tried to escape.
@@ -1457,6 +1504,7 @@ Discretion and stealth are required for those tasks."
 delapouite/robber,action bag body money police,A burglar escaping with his loot. How can this thief run with such a heavy bag?
 delapouite/robin-hood-hat,hat,This famous thief robs rich people of Nothingam to give back to the poor.
 delapouite/robot-antennas,head robot,Capturing ultra-waves signals is the specialty of this mobile computer that can then vocalize the results.
+delapouite/robot-grab,claw robot,"A pincer with rotative parts, a hand for androids."
 delapouite/robot-helmet,head robot,A mask with a respiratory system and thick metal plates.
 delapouite/robot-leg,robot science-fiction,A mechanical limb to run very quickly. With the spring behind the knee the metal leg can also jump to great heights.
 delapouite/rock-golem,creature stone,This strong monster is very resistant but also slow to move.
@@ -1464,6 +1512,7 @@ delapouite/rocket-thruster,science-fiction space vehicle,Propulsion engine to de
 delapouite/rocking-chair,household western,To rest in the calm of the porch in front of the farm.
 delapouite/rod-of-asclepius,greek-roman life reptile symbol,A wooden staff with a snake around it. Not to be confused with a caduceus
 delapouite/rolled-cloth,catan clothing,"A textile piece, made of linen or synthetic fabric. Can be turned in shirts, carpets, curtains…"
+delapouite/roller-skate,boot sport,Wheels under a shoe to roll on a track like a pro.
 delapouite/rolling-dice-cup,board dice,Like a random cocktail of probability when you shake your luck energy before your turn.
 delapouite/rolling-dices,board dice toy,"Score random points when thrown during a board game. Most of the time, highest numbers are better."
 delapouite/roman-shield,greek-roman shield,Protections of soldiers in roman legions. Can form turtle formations during defensive tactics.
@@ -1498,6 +1547,7 @@ delapouite/saint-basil-cathedral,building civilization,"One of the most famous c
 delapouite/saiyan-suit,armor,A light but efficient layer of special cloth to protect vital organs in alien torsos.
 delapouite/saloon-doors,building door western,Typical entrance to a cowboys' bar. Hinges usually emits a strident sound.
 delapouite/saloon,building western,"A bar where cowboys, gangsters enjoy a drink listening to piano."
+delapouite/samara-mosque,building,"This huge minaret, located in Iraq was completed during the 9th century."
 delapouite/samurai-helmet,hat ninja,This medieval Japanese protection was the inspiration for Darth Vader helmet
 delapouite/samus-helmet,hat robot,
 delapouite/sand-castle,building flag sea toy,An ephemeral construction built by children during a summer afternoon at the beach.
@@ -1522,6 +1572,7 @@ delapouite/scooter,vehicle,Lightweight motorcycle quite famous in Italy.
 delapouite/scorpio,symbol,Scorpion star constellation - Zodiacal sign from October to November
 delapouite/scout-ship,space vehicle,This light aircraft can gather crucial information on enemies tactics.
 delapouite/screw,metal tool,Need a screwdriver to keep the two pieces together.
+delapouite/scroll-quill,book,A long handwritten document that must be rolled and sealed. Probably a will.
 delapouite/scuba-mask,mask sea sport,A breathing equipment used by divers while snorkeling. This one is perfect to explore reefs in apnea.
 delapouite/scuba-tanks,container sea sport,Twins oxygen bottles that allow divers to breath under water during a few hours.
 delapouite/sea-star,animal fish sea star,"This starfish is a limp animal with five sticky arms, like Patrick living attached on rocks at the bottom of the ocean."
@@ -1533,6 +1584,8 @@ delapouite/security-gate,door machine,This frame is used in airport to detect pa
 delapouite/seedling,plant,A young crop growing in a flower pot.
 delapouite/sell-card,arrow board money,It's time to let go one of your precious card to get back some coins in your treasure.
 delapouite/sergeant,rank,3 stripes for this military rank is a symbol of respect and experience on the battlefield.
+delapouite/server-rack,electronic,"These computers are connected to the network as storage and computational units.
+They compose the Cloud."
 delapouite/sesame,farm food,Seeds that can be mixed in a recipe or put back on a fertile soil to produce more cereals.
 delapouite/settings-knobs,gui machine,Adjust the sliders to tweaks the correct options.
 delapouite/seven-pointed-star,star,Symbolizing the faith in Westeros.
@@ -1551,10 +1604,11 @@ delapouite/shattered-heart,glass heart spike,"After a sad love story, hearts can
 delapouite/sheep,animal catan farm mammal,Furry stupid pet living in herds and producing wool to manufacture thick clothes.
 delapouite/sherlock-holmes,hat head police steampunk,This famous detective created by Sir Arthur Conan Doyle helps Scotland Yard finding clues during investigations.
 delapouite/shield-bash,action body shield,No need of a sword when you want to smash your opponent head with a quick jab!
+delapouite/shield-impact,shield,The material of this shield is not strong enough to block the tip of this arrow.
 delapouite/shinto-shrine-mirror,household ninja,This reflective disc on top of a wooden pedestal is a mystical and religious object.
 delapouite/shinto-shrine,building door ninja,An quiet Asian temple to meditate or pray. Go through this gate for enlightenment.
 delapouite/ship-bow,boat,This big boat is about to let its anchor dive in the waves.
-delapouite/ship-wheel,boat pirate sea,The captain uses it to steer its boat on the right course.
+delapouite/ship-wheel,boat pirate sea,The captain uses this helm to steer its boat on the right course and avoid treacherous reefs.
 delapouite/ship-wreck,boat pirate sea,An old boat after a collision with a deadly reef.
 delapouite/shop,building,A stand or market to buy precious items from a merchant.
 delapouite/shopping-bag,bag,This paper bag is useful to bring commercial goods from the mall.
@@ -1604,6 +1658,7 @@ delapouite/snake-spiral,reptile,This viper is about to bite its own tail.
 delapouite/snake-tongue,australia reptile,A snake can never be truly silent when it starts to whistle.
 delapouite/sniffing-dog,mammal police,A dog with a powerful smell abilities to detect drugs or follow criminals.
 delapouite/snitch-quidditch-ball,ball sport,Famous flying object in the Harry Potter saga.
+delapouite/soap,household,A bubbling chemical product to clean the body or houses.
 delapouite/soccer-ball,ball sport toy,Score goals and get the praises of the football stadium by hitting this checkered ball with your feet.
 delapouite/soccer-field,sport,"Place to play football, usually in a stadium"
 delapouite/soccer-kick,sport,This football player is about to score a goal.
@@ -1623,6 +1678,7 @@ delapouite/south-korea,map,Lower part of the Korean peninsula in Asia.
 delapouite/space-shuttle,smoke space vehicle,A rocket launch from Cape Canaveral aiming for the stars. It can then re-enter the atmosphere and land without trouble.
 delapouite/spaceship,science-fiction space vehicle,A cargo ship in charge of transporting troops and goods across interstellar void.
 delapouite/spain,map,South European country at the origin of huge empires during the conquest of Americas.
+delapouite/sparkles,star,Magic fairy dust shining in the dark.
 delapouite/spartan-helmet,armor hat greek-roman,A distinctive crimson mane for these fierce Greek warriors led by King Leonidas.
 delapouite/speaker-off,gui sound,"Sound is muted, finally some silence!"
 delapouite/speaker,gui sound,This device emit sound depending on chosen volume.
@@ -1682,7 +1738,7 @@ delapouite/sticky-boot,boot trap,A powerful gum is attached to the tread.
 delapouite/stockpiles,building machine,A big pile of sand with material extracted from a near by quarry and brought throught a conveyor belt.
 delapouite/stomach,anatomy food,Organ located in the belly in charge of digesting food and drinks with strong acids.
 delapouite/stone-bridge,bridge stone,"This arch is better than a ford to cross a river, especially if the stream is getting wild."
-delapouite/stone-bust,body greek-roman stone,This piece of art from a museum is a marble statue representing the muscular chest of some famous ancient aristocrat.
+delapouite/stone-bust,body greek-roman statue stone,This piece of art from a museum is a marble statue representing the muscular chest of some famous ancient aristocrat.
 delapouite/stone-path,greek-roman stone,This road is freshly paved and leads to Roma.
 delapouite/stone-pile,catan stone,Large rough rocks from a quarry ready to be mined to build walls or extract the ore.
 delapouite/stone-stack,nature stone,A pile of rounded rocks in perfect balance on their centers of gravity. This constructions are often found on the seashore.
@@ -1711,6 +1767,7 @@ delapouite/sunglasses,eye glass head,"Opaque glasses to protect eyes from the bl
 There's no real use to keep wearing shades when it's dark."
 delapouite/sunrise,nature star sky,"First lights far on the morning horizon during the aurora, when the coldness of the night goes away."
 delapouite/sunset,nature star sky,"During dusk, the sun disappears behind the horizon. It's the end of the day, the Milky Way is ready to shine."
+delapouite/surf-board,australia sea sport,Catch the wave during a warm summy afternoon on the beach.
 delapouite/sushis,fish food ninja,A portion of rice with a slice of salmon on top.
 delapouite/suspension-bridge,bridge,The deck is hung by suspension cables attached to pylons.
 delapouite/sverd-i-fjell,building blade viking,Those 3 massive swords in a rock form a commemorative monument located in Norway dedicated to the Battle of Hafrsfjord.
@@ -1728,6 +1785,7 @@ delapouite/sword-altar,blade zelda,This magic sword is waiting for the right her
 delapouite/sword-brandish,blade hand weapon,Show your mighty sword to inspire your allies with courage and frighten the opponents during your conquest.
 delapouite/sword-mold,blade metal,A blacksmith turning raw metal scrapes into a sharp weapon.
 delapouite/swords-power,blade cross,This warrior is a blade master that summons higher energy spirits. This crucial moment is full of glory.
+delapouite/sydney-opera-house,australia building,A famous landmarks in New South Wales.
 delapouite/t-brick,block,
 delapouite/t-shirt,clothing,A simple regular shirt that fit every situation from casual to elegant.
 delapouite/table,household wood,"A table is an essential furniture in a kitchen to have a meal, work or play a board game."
@@ -1738,6 +1796,7 @@ delapouite/take-my-money,hand money,A handful of cash ready to compulsively buy 
 delapouite/tall-bridge,bridge sea,A long concrete road across a river or an estuary.
 delapouite/tambourine,sound,This moon-shaped hand-drum has small cymbals to produce a metallic sound.
 delapouite/tangerine,food fruit,"A small version of an orange, a cousin of mandarine."
+delapouite/tanzania,map,Country of South East Africa. Its capital is Dodoma.
 delapouite/tap,household liquid,Where you connect the hose to provide water when open or simply drink in the kitchen.
 delapouite/target-prize,arrow rank,"At the end of the competition, a trophy is the final stage."
 delapouite/taurus,symbol,Bull star constellation - Zodiacal sign from April to May
@@ -1754,6 +1813,7 @@ delapouite/temporary-shield,shield time,Only a few minutes remain until the defe
 delapouite/tennis-ball,ball sport,From side to the other one at Roland Garros.
 delapouite/tennis-court,sport,A clay field to play tennis during Roland Garros. It's not as big as a stadium and the audience must remain silent.
 delapouite/tennis-racket,sport,To exchange balls during a match Wembley or Roland Garros.
+delapouite/tentacles-barrier,tentacle trap,Three tentacles acting like an obstacle in a corridor.
 delapouite/texas,map western,"Big American state on the Mexico border, with Dallas and Houston as main cities."
 delapouite/theater-curtains,building cinema circus door,An empty stage without spotlights nor actors.
 delapouite/thermometer-cold,ice sky,When the temperature drops under zero degree celcius and nature starts freezing.
@@ -1774,6 +1834,8 @@ delapouite/tie,clothing,"A cravat, piece of tissue around the neck to look bossy
 delapouite/tiger-head,animal circus mammal,The striped cousin of the Lion is also very fierce.
 delapouite/tiger,animal mammal,Big cat with stripes.
 delapouite/tightrope,bridge body circus sport,A good balance is needed during funambulism exhibitions. This person is an expert in agility and nimbleness.
+delapouite/time-synchronization,time,"The watches need a common point of reference to keep track of time.
+Hours and minutes are up to date."
 delapouite/tipi,building western,"An Amerindian tent, maybe the house of Tikotep."
 delapouite/tire-tracks,police vehicle,Fresh threads in the mud or in the snow can lead to the driver who created an accident.
 delapouite/toaster,food household kitchenware,Don't burn toasts if you want to put butter or jam on them during breakfast.
@@ -1800,6 +1862,7 @@ delapouite/traffic-lights-red,light police vehicle,Indicators regulating traffic
 delapouite/trail,map nature,"The path is pretty clear, just have to follow the direction pointed by the sign."
 delapouite/transform,gui symbol,"Interpolation between shapes, from a disc to a square."
 delapouite/trash-can,gui household,Recycle bin to throw away things to the garbage.
+delapouite/travel-dress,clothing,This long dress is perfect for a long journey on a horse back.
 delapouite/trebuchet,machine vehicle,"A huge siege machine, like a tall catapult, used to destroy enemy walls."
 delapouite/tree-beehive,insect wood,"Natural house of bees in nature, like a small honey factory suspended to tree branches."
 delapouite/tree-door,door lock wood,"Deep in the forest, this is an entrance to the world of elves."
@@ -1811,11 +1874,13 @@ delapouite/tribal-pendant,jewellery spike stone-age string,A doomed necklace mad
 delapouite/triceratops-head,reptile spike,This herbivore dinosaur did not go extinct because of its three massive horns and beak protecting its skull.
 delapouite/trident-shield,shield spike,This protective plate belongs to a marine faction dedicated to Poseidon.
 delapouite/triforce,symbol zelda,"Triangles combined into a relics from the gods : wisdom, power and courage."
+delapouite/trinacria,greek-roman symbol,"Symbol made of 3 legs, found on the flag of Sicily in Italy."
 delapouite/triple-gate,building door,Three doors leading inside a huge hall.
 delapouite/triquetra,celtic symbol,Trinity knot found in Celtic ceremonies.
 delapouite/trireme,boat egypt greek-roman sea,An ancient Roman or Greek war galley with three banks of oars and two big sails.
 delapouite/troglodyte,creature spike,A blind worm with limbs covered with skipes which lives underground.
 delapouite/trojan-horse,animal greek-roman machine toy trap vehicle,Huge wooden decoy used by the Greeks to capture the city of Troy.
+delapouite/trophies-shelf,rank sport,"After years of competition, all cups are displayed in the victory hall."
 delapouite/trophy-cup,rank sport,The highest prize in case of victory during a competition. Winning this award is a form a recognition.
 delapouite/tropical-fish,australia fish,A colorful fish living in warm seas near reefs.
 delapouite/trowel,tool,To lay bricks and spread cement.
@@ -1850,6 +1915,7 @@ delapouite/ursa-major,space star,The great bear constellation shining in the nig
 delapouite/uruguay,map,South American country located near Brazil and separated from Argentina by el Rio de la Plata.
 delapouite/usa-flag,flag star western world-wars,13 stripes and 50 stars for each state in the true version.
 delapouite/usb-key,electronic,External memory stick to store important data if you manage to plug in the right way on the first try.
+delapouite/ushanka,hat star,This fur hat protects from the Siberian cold and snow.
 delapouite/uzi,gun weapon,Small Israeli submachine gun with a high firing rate.
 delapouite/vacuum-cleaner,household machine,A loud carpet sucker to turn a dirty floor into a shiny deck with no dust in sight.
 delapouite/valve,liquid machine,A big tape to regulate the flow inside a pipe.
@@ -1862,7 +1928,7 @@ delapouite/velociraptor,reptile,Very clever dinosaur that can run very quickly a
 delapouite/vending-machine,food machine,"A distributor of snacks, chocolate bars, candies and sodas.
 It's a perfect fridge-like appliance for waiting-rooms."
 delapouite/venezuela,map,Country of South America with Caracas as capital.
-delapouite/venus-of-willendorf,body stone stone-age symbol,A statue representing women and fertility in old beliefs.
+delapouite/venus-of-willendorf,body statue stone stone-age symbol,A statue representing women and fertility in old beliefs.
 delapouite/vertical-banner,flag,This straight and abrupt piece of slightly decorated tissue can serve as a rally point.
 delapouite/vertical-flip,arrow gui,Mirror effect on the y axis.
 delapouite/vibrating-shield,shield,"Reverberations spreading from this simple shield, can form a defensive echo."
@@ -1907,6 +1973,7 @@ delapouite/water-gallon,bottle liquid,"A huge container of fresh water to plug i
 During coffee brakes, employees gather around this modern totem."
 delapouite/water-gun,gun liquid toy,This fake gun is filled with water or paint. Kids love it during summer battles.
 delapouite/water-polo,ball sport,Aquatic ball sport in a swimming pool.
+delapouite/water-recycling,liquid,The water goes through a cleaning process before being released back to the nature.
 delapouite/water-tank,building farm liquid,A reservoir distributing water trough pipes in a small town.
 delapouite/waterfall,liquid nature,A river dropping from a cliff like in Niagara or Iguazu.
 delapouite/watering-can,container farm liquid tool,To shower flowers in the garden.
@@ -1923,6 +1990,7 @@ delapouite/whale-tail,animal fish mammal sea,"Whales swim back to the surface of
 delapouite/wheelbarrow,building farm tool,Carry concrete or dirt around the garden during houses constructions.
 delapouite/whisk,kitchenware,Let's prepare some tasty mayonnaise with this tool that needs to be agitated.
 delapouite/whistle,police sound sport,Produce a strident sound. Used by referees to signal penalties or end of games.
+delapouite/wifi-router,electronic household,To connect the devices of your home network to the Internet.
 delapouite/wind-turbine,building energy machine,A modern wind mill to turn infinite supply of atmosphere moves into renewable green energy.
 delapouite/windmill,building farm,This mill uses the wind to crush cereals and produce flour.
 delapouite/window-bars,building door police,"In a prison cell, there should be no way to escape even if you have a sharp file."
@@ -2472,7 +2540,7 @@ lorc/evil-moon,creature space,Summoned by the Skull Kid to destroy the kingdom o
 lorc/evil-tree,creature wood,A laughing trunk with long bark spiky teeth eating lost people in dark woods.
 lorc/expanded-rays,light,Illuminated beams are spreading from the orb in the center.
 lorc/explosion-rays,explosion light space star,Bursts of light escaping the center of the chemical reaction.
-lorc/explosive-materials,energy explosion light,The core is broken and long straight rays precede a huge detonation.
+lorc/explosive-materials,bomb energy explosion light,The core is broken and long straight rays precede a huge detonation.
 lorc/explosive-meeting,explosion,Two missiles on the same deadly trajectory.
 lorc/extra-lucid,body state,"High awareness state, all senses are on alert."
 lorc/extraction-orb,ball,Rays cast by this sphere can reach dark places.
@@ -2519,7 +2587,7 @@ lorc/fishhook-fork,tool,A harpoon with three branches.
 lorc/fishing-hook,fish sea trap,Put a worm on its extremity and wait patiently for a good catch.
 lorc/fishing-net,fish pirate sea trap,"To hunt some fish in the shallow waters of a placid river or even in wide oceans.
 The prey get entangled and need to wait for someone to deliver them."
-lorc/fission,explosion,Atom nucleus about to release a huge amount of energy.
+lorc/fission,bomb explosion,Atom nucleus about to release a huge amount of energy.
 lorc/fist,hand,A hand with closed fingers ready to punch in an uppercut move.
 lorc/fizzing-flask,bottle chemical smoke,A foamy potion in a science lab. It may explodes in the end.
 lorc/flame-claws,fire,"This fire is so huge, it seems alive attempting to grab victims."
@@ -2533,6 +2601,7 @@ lorc/flaming-sheet,fire,A piece of paper sharing heat around.
 lorc/flaming-trident,fire weapon,A burning fork from Hell ready for inquisition.
 lorc/flash-grenade,bomb police weapon,To blind enemies during a quick counter-attack assault.
 lorc/flat-hammer,hammer tool,For stubborn nails which need the correct hit.
+lorc/flat-paw-print,animal claw,A more aggressive version than the gentle print you can see in the Nintendogs logo.
 lorc/flat-star,star,Four branches on the horizon.
 lorc/fleshy-mass,creature,Probably an infected marine spawned by after a Zerg raid.
 lorc/flexible-star,star,A soft Elder sign that could be stretched or squeezed to fit in a small box.
@@ -2737,7 +2806,7 @@ lorc/knife-fork,blade cross kitchenware tool,This icon could almost figure in a 
 lorc/knife-thrust,blade,A stab in a vulnerable part.
 lorc/lamellar,armor,Lots of metal layers that imitate fish scales on this warrior chest. Unfortunately this kind of suit won't make a knight swim.
 lorc/lamprey-mouth,animal fish mouth spike,An evil marine snake sucking victims flesh and blood like a blind vampire parasite.
-lorc/land-mine,explosion trap,A deadly explosive device hidden in the ground waiting for an unfortunate foot to trigger it.
+lorc/land-mine,bomb explosion trap,A deadly explosive device hidden in the ground waiting for an unfortunate foot to trigger it.
 lorc/lantern-flame,fire light steampunk,A gas lamp to illuminate streets with a dim glow.
 lorc/lantern,light ninja,Help Tonberry from Final Fantasy to find a way into darkness.
 lorc/large-wound,blood spike,Putrid problem on the skin that may lead to a nasty infection if no bandages are used.
@@ -2888,7 +2957,7 @@ Or maybe it's only a smoke detector to warn people during a domestic fire."
 lorc/mucous-pillar,blood building,A viscous girder to support the ceiling in a spider cave.
 lorc/muscle-fat,body,Bad daily diet lead to weight disaster and a huge belly.
 lorc/muscle-up,action body sport,Lots of physical exercises to stay in good health.
-lorc/mushroom-cloud,energy explosion smoke mushroom world-wars,That is the kind of spectacle you can expect in Fallout if you decide to follow the dark path.
+lorc/mushroom-cloud,bomb energy explosion smoke mushroom world-wars,That is the kind of spectacle you can expect in Fallout if you decide to follow the dark path.
 lorc/mushroom-gills,food mushroom,What lies underneath a mushroom cap?
 lorc/mushroom,food mushroom poison,A white mushroom that could be either eaten or turned into poison. It grows in the woods or in fungal farms.
 lorc/music-spell,sound,Waves vibrating from a tune.
@@ -2940,7 +3009,6 @@ lorc/paw-heart,animal heart,A dog foot print in the middle of a beating organ.
 lorc/paw-print,animal,Trace of animal foot on the ground.
 lorc/paw,animal,An animal foot with claws.
 lorc/pawn,board,"Checkmate. The king is dead, long live the king."
-lorc/pawprint,claw,A more aggressive version than the gentle print you can see in the Nintendogs logo.
 lorc/peaks,ice nature stone,"Mountains summits with snow on top, that hikers enjoy discovering."
 lorc/pentagram-rose,star symbol,Mark on the ground to summon evil spirits.
 lorc/pentarrows-tornado,arrow,The leaving forces go into 5 opposite directions.
@@ -3071,7 +3139,7 @@ lorc/scalpel-strike,blade spike weapon,A sudden madness invade the operation roo
 lorc/scalpel,blade life tool,"With this sharp blade, surgeons of Theme Hospital can handle any kind of weird disease."
 lorc/scar-wound,blood,Will leave a trace on skin.
 lorc/scarab-beetle,animal insect,A noble version of the common cockroach.
-lorc/scarecrow,bird,To protect crops fields from hungry birds.
+lorc/scarecrow,bird farm,A dummy doll to protect crops fields from hungry birds.
 lorc/scissors,blade tool,To cut sheets of paper.
 lorc/scorpion-tail,animal insect poison,Add a triangle around and here's your NOD logo. This poisonous sting could also be a nice tattoo onto Scorpion's back in Mortal Kombat.
 lorc/scorpion,animal insect mexico western,A dangerous animal that uses its tail to inject deadly venom. It's also the name of a war machine during the Middle Ages.
@@ -3226,7 +3294,7 @@ lorc/sprout-disc,plant,Tiny leaves emerging from the soil.
 lorc/sprout,farm plant,Started as a seed in the ground and will grow into a magnificent flower.
 lorc/spyglass,eye map pirate tool,A handy telescope to observe far places from pirate ships for example.
 lorc/square-bottle,bottle glass,This flask is easier to stack in a cellar than a round one but harder to clean in the corners.
-lorc/squib,explosion,Small fragments.
+lorc/squib,bomb explosion,Small fragments of an explosive device that just turned into dust.
 lorc/squid-head,animal sea tentacle,Why not Zoidberg?
 lorc/squid,animal sea tentacle,A giant octopus living deep into oceans.
 lorc/stag-head,animal game-of-thrones mammal,
@@ -3240,7 +3308,7 @@ lorc/star-sattelites,space star,A sun surrounded by orbital spheres.
 lorc/star-skull,skull star,This cranium has just go an epiphany staring at its destiny.
 lorc/star-swirl,space star,A galaxy like the Milky Way. This confusing universe can be seen when dazed.
 lorc/staryu,star symbol,A five branches star with a thick bevel. Looks familiar with a Pokemon.
-lorc/static-guard,body,Protector of a fortress standing in an inflexible position.
+lorc/static-guard,body statue,Protector of a fortress standing in an inflexible position.
 lorc/static-waves,lightning,Energy perturbations.
 lorc/static,lightning sky,"Magnetic field disturbance on screens, like an electrical fog."
 lorc/steel-claws,claw metal spike,"You'd better have balls of steel like Duke Nukem, if you want to survive the mandatory scratching in the morning."
@@ -3789,8 +3857,8 @@ skoll/tank-tread,vehicle world-wars,"Tanks have no wheels but can reach pretty m
 skoll/tec-9,gun weapon,A cheap semi automatic pistol easy to hack.
 skoll/telescopic-baton,weapon,A retractable stick used by police forces during interventions.
 skoll/teller-mine,bomb trap weapon world-wars,A German sneaky explosive hidden in the grounds of the World War II battlefields.
-skoll/thompson-m1,gun world-wars,
-skoll/thompson-m1928,gun,
+skoll/thompson-m1,gun world-wars,"This weapon is a .45 caliber semi-automatic, one of the most emblematic American submachine gun of World War II."
+skoll/thompson-m1928,gun,This weapon is a follow-up on the 1921 models with weight added to the actuator.
 skoll/topaz,jewellery mineral,A drop of crystal made of aluminium and fluorine.
 skoll/trench-body-armor,armor world-wars,Protection against bullets and mud.
 skoll/trench-knife,blade world-wars,A short bayonet with a strong grip for one to one combat on a muddy battlefield.
@@ -3926,13 +3994,13 @@ viscious-speed/abstract-118,abstract,
 viscious-speed/abstract-119,abstract,
 viscious-speed/abstract-120,abstract,
 viscious-speed/abstract-121,abstract,
-willdabeast/black-book,book,A dark cover novel
+willdabeast/black-book,book,"A dark cover novel with ancient stories about war, evil and sacrilegious spells."
 willdabeast/chain-lightning,lightning,Domino effects dealing damages on troups.
 willdabeast/chain-mail,armor clothing,Metal T-Shirt to block blade stabbing.
 willdabeast/gold-bar,metal money western,A shinny and precious metal block. This expensive ingot prefers to be secured in banks' vaults.
 willdabeast/orb-wand,ball weapon,Crystal ball ready to cast magic spells.
 willdabeast/round-shield,shield,Probably handmade from a table.
-willdabeast/white-book,book,A bright cover novel
+willdabeast/white-book,book,A bright cover novel with legends about virtous kingdoms and recipes to prepare cures.
 zajkonur/skull-with-syringe,poison skull,This cranium has the cure between its teeth.
 zajkonur/violin,sound,A fiddle that is played with a bow in an orchestra. Stradivarius are quite expensive.
 zeromancer/heart-minus,heart life,"Decrease in stamina, the hero loses in resistance and endurance. It needs to refill asap."

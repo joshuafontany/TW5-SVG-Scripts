@@ -2,6 +2,6 @@ caption: thermometer-empty
 description: Thermometer Empty
 name: solid/thermometer-empty
 style: solid
-tags: $:/tags/Image status cold mercury status temperature
+tags: $:/tags/Icon status cold mercury status temperature
 title: $:/icons/fontawesome5/solid/thermometer-empty
 type: 

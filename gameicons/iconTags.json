@@ -606,6 +606,11 @@
             "description": "Like a small tornado made of blades that could also be taken from a power tool saw."
         },
         {
+            "name": "delapouite/3d-glasses",
+            "tags": "eye glass",
+            "description": "Red and blue filters to experience movies with extra dimensions thanks to stereoscopy.\nIn the cinema, hard to tell which objects are real and which ones simple pop out of the theater screen."
+        },
+        {
             "name": "delapouite/3d-hammer",
             "tags": "hammer tool",
             "description": "To hit on metal in a forge and produce perfect blades."
@@ -643,7 +648,7 @@
         {
             "name": "delapouite/africa",
             "tags": "map",
-            "description": "This continent is considered the crib of mankind. The north part is covered with desert."
+            "description": "This continent is considered the crib of mankind. The north part is covered by the Sahara desert. Below, the savanna is home of many species like lions, giraffes and elephants."
         },
         {
             "name": "delapouite/agave",
@@ -659,6 +664,16 @@
             "name": "delapouite/air-balloon",
             "tags": "sky steampunk vehicle",
             "description": "Hot and slow balloon to travel in the clouds and go around the world in less than 80 days."
+        },
+        {
+            "name": "delapouite/airplane-arrival",
+            "tags": "sky vehicle",
+            "description": "After a long flight, this plane is finally landing on the airport."
+        },
+        {
+            "name": "delapouite/airplane-departure",
+            "tags": "sky vehicle",
+            "description": "Take off to reach the clouds and start a journey."
         },
         {
             "name": "delapouite/airtight-hatch",
@@ -703,7 +718,7 @@
         {
             "name": "delapouite/almond",
             "tags": "food fruit",
-            "description": "A dry nut used to make milk, cake and biscuits."
+            "description": "A dry nut used to make milk, cake and biscuits like nougat or macarons."
         },
         {
             "name": "delapouite/amber-mosquito",
@@ -1001,6 +1016,11 @@
             "description": "Symbol of lumberjack warriors."
         },
         {
+            "name": "delapouite/azul-flake",
+            "tags": "symbol",
+            "description": "This symbol is printed on top of light blue Azuleros."
+        },
+        {
             "name": "delapouite/baby-bottle",
             "tags": "bottle",
             "description": "Good milk when mum can't naturally feed the starving kid."
@@ -1037,7 +1057,7 @@
         },
         {
             "name": "delapouite/bad-breath",
-            "tags": "mouth",
+            "tags": "mouth zombie",
             "description": "Horrible odor coming from a zombie teeth made of rotten food or organs decomposition."
         },
         {
@@ -1131,6 +1151,11 @@
             "description": "Infantry's living place in training camps. Inside, bunk beds are organized in rows like soldiers waiting quietly in their garrison."
         },
         {
+            "name": "delapouite/barrel-leak",
+            "tags": "container liquid",
+            "description": "A suspicious content escaping the open barrel is forming a puddle with disastrous environmental consequences."
+        },
+        {
             "name": "delapouite/barrel",
             "tags": "container liquid pirate wood",
             "description": "Big cylindrical alcohol container made of wood. It gives a special taste to the wine and whisky inside."
@@ -1172,7 +1197,7 @@
         },
         {
             "name": "delapouite/bastet",
-            "tags": "egypt mammal",
+            "tags": "egypt mammal statue",
             "description": "A cat statue with a large necklace and sitting in a noble attitude."
         },
         {
@@ -1184,6 +1209,11 @@
             "name": "delapouite/bat",
             "tags": "animal mammal vampire",
             "description": "A flying fox living in dark caves. It sleeps upside down and use strident sounds to find its direction."
+        },
+        {
+            "name": "delapouite/bathtub",
+            "tags": "household",
+            "description": "Clean your dirty body in the warmth of the bathroom."
         },
         {
             "name": "delapouite/battle-mech",
@@ -1236,6 +1266,11 @@
             "description": "Alcoholic beverage made of hops and malted cereal grains."
         },
         {
+            "name": "delapouite/beer-horn",
+            "tags": "liquid viking",
+            "description": "A bull's horn to drink mead during feasts."
+        },
+        {
             "name": "delapouite/beet",
             "tags": "food fruit super-mario",
             "description": "Tubercle producing a pink blood when mixed with mayonnaise sauce. It's a big source of sugar."
@@ -1244,6 +1279,11 @@
             "name": "delapouite/belgium",
             "tags": "map",
             "description": "Small European country where is located the EU council in Brussels."
+        },
+        {
+            "name": "delapouite/bellows",
+            "tags": "fire smoke tool",
+            "description": "In a forge, the fire needs to be kept strong for the blacksmith to perform well."
         },
         {
             "name": "delapouite/belt-armor",
@@ -1367,7 +1407,7 @@
         },
         {
             "name": "delapouite/bolt-bomb",
-            "tags": "bomb lightning",
+            "tags": "bomb energy lightning",
             "description": "An electrical explosive that destroys surrounding devices like an EMP."
         },
         {
@@ -1931,6 +1971,11 @@
             "description": "A powerful light bulb is illuminating the room. There's a switch on the wall to turn it off."
         },
         {
+            "name": "delapouite/cellar-barrels",
+            "tags": "container farm france",
+            "description": "Wine or whisky being kept in the coolness of an underground winery."
+        },
+        {
             "name": "delapouite/centaur",
             "tags": "creature greek-roman mammal",
             "description": "A mythical being half man half horse who usually carries a bow with him."
@@ -2101,6 +2146,11 @@
             "description": "Small automobile to commute to work and drive your family slowly in the streets."
         },
         {
+            "name": "delapouite/clamp",
+            "tags": "tool",
+            "description": "To keep two pieces of wood stuck together."
+        },
+        {
             "name": "delapouite/clapperboard",
             "tags": "cinema gui",
             "description": "A famous cinema sound made before each filmed sequence in a movie."
@@ -2187,7 +2237,7 @@
         },
         {
             "name": "delapouite/cobra",
-            "tags": "reptile",
+            "tags": "egypt reptile",
             "description": "This snake has large decorated wings around its head to make it even more fearful."
         },
         {
@@ -2232,8 +2282,13 @@
         },
         {
             "name": "delapouite/colombian-statue",
-            "tags": "stone",
+            "tags": "mexico statue stone",
             "description": "Old idol carved in stone to be adored during social gatherings."
+        },
+        {
+            "name": "delapouite/column-vase",
+            "tags": "greek-roman",
+            "description": "This old vase is probably full of dust after all those years standing untouched in this temple."
         },
         {
             "name": "delapouite/commercial-airplane",
@@ -2481,6 +2536,11 @@
             "description": "A sniper relies on this visual help during a long distance shot."
         },
         {
+            "name": "delapouite/crossroad",
+            "tags": "map",
+            "description": "Choose the path to follow your quest: left or right, there's no other choice."
+        },
+        {
             "name": "delapouite/crow-nest",
             "tags": "boat flag pirate sea",
             "description": "Lookout at the top of the main mast on a ship before radar was invented."
@@ -2594,6 +2654,11 @@
             "name": "delapouite/dead-head",
             "tags": "death head state zombie",
             "description": "A blank stare with the tongue outside the mouth."
+        },
+        {
+            "name": "delapouite/deer-track",
+            "tags": "animal mammal",
+            "description": "A hunter can rely on these marks on the ground to follow the game."
         },
         {
             "name": "delapouite/defense-satellite",
@@ -2831,6 +2896,11 @@
             "description": "A mystic diviniation sphere resting in a reptilian palm."
         },
         {
+            "name": "delapouite/dragon-shield",
+            "tags": "shield",
+            "description": "Can this protection sustain the fire-breath of a dragon?\nOnly a mighty adventurer may prove it."
+        },
+        {
             "name": "delapouite/drakkar-dragon",
             "tags": "boat creature viking",
             "description": "A threatening mythical animal head with horns carved in the wood of a Viking ship bow."
@@ -2976,6 +3046,11 @@
             "description": "This aquatic snake like fish may fight against a lamprey."
         },
         {
+            "name": "delapouite/egg-eye",
+            "tags": "egg eye",
+            "description": "A crack in the shell let the curious stare of a new born exploring the surroundings."
+        },
+        {
             "name": "delapouite/egypt",
             "tags": "egypt map",
             "description": "North African country encompassing the Nile delta. It used to be the kingdom of Pharaohs.\nThe capital is Cairo."
@@ -2997,7 +3072,7 @@
         },
         {
             "name": "delapouite/egyptian-sphinx",
-            "tags": "building creature egypt",
+            "tags": "building creature egypt statue",
             "description": "Massive statue with a broken nose near the pyramids in the desert. It may ask you some riddles."
         },
         {
@@ -3376,6 +3451,11 @@
             "description": "When Mario or Luigi blow on the petals, it casts fire balls."
         },
         {
+            "name": "delapouite/fire-gem",
+            "tags": "fire jewellery mineral",
+            "description": "With this precious artifact, a magician can summon fire spirits and use flames to fight enemies."
+        },
+        {
             "name": "delapouite/fire-shrine",
             "tags": "fire light",
             "description": "A simple magic flame to invoke fire spirits."
@@ -3389,6 +3469,11 @@
             "name": "delapouite/fireplace",
             "tags": "fire household",
             "description": "Put wood logs in this to warm the house during cold periods."
+        },
+        {
+            "name": "delapouite/firewall",
+            "tags": "fire trap",
+            "description": "A hot barrier with no way to go through without protection."
         },
         {
             "name": "delapouite/first-aid-kit",
@@ -3501,6 +3586,11 @@
             "description": "A sharp nail pierced this wheel which now needs to be repaired. The hole will need to be corked before getting back at full pressure."
         },
         {
+            "name": "delapouite/flatfish",
+            "tags": "fish",
+            "description": "A plaice can slip under narrow traps and avoid fishermen's nets."
+        },
+        {
             "name": "delapouite/flax",
             "tags": "plant",
             "description": "A fiber crop also knows as linseed, used to produce linen clothes."
@@ -3509,6 +3599,11 @@
             "name": "delapouite/fleur-de-lys",
             "tags": "flag symbol",
             "description": "This flower is the royal symbol of French kings."
+        },
+        {
+            "name": "delapouite/flexible-lamp",
+            "tags": "household light",
+            "description": "In the shadows of a dark office, a bit of light near the desk is mandatory to keep writing."
         },
         {
             "name": "delapouite/flint-spark",
@@ -3631,6 +3726,11 @@
             "description": "Impenetrable patch of pine trees in the country. This forest does not seem haunted."
         },
         {
+            "name": "delapouite/fork-knife-spoon",
+            "tags": "kitchenware tool",
+            "description": "This trio of metal sticks just need a plate and be placed on the table of a restaurant."
+        },
+        {
             "name": "delapouite/forklift",
             "tags": "vehicle",
             "description": "A small industrial truck to move heavy crates in a warehouse."
@@ -3669,6 +3769,11 @@
             "name": "delapouite/frisbee",
             "tags": "sport",
             "description": "A plastic disc you throw on the beach for fun or during golf competitions."
+        },
+        {
+            "name": "delapouite/frog-foot",
+            "tags": "reptile",
+            "description": "This sticky foot has a perfect grip to climb wall like geckos."
         },
         {
             "name": "delapouite/frog-prince",
@@ -3719,6 +3824,11 @@
             "name": "delapouite/full-motorcycle-helmet",
             "tags": "hat vehicle",
             "description": "This helmet protects the head of drivers while having an accident during a bike ride."
+        },
+        {
+            "name": "delapouite/full-pizza",
+            "tags": "food",
+            "description": "This italian tomato cake is ready to be shared between all the hungry people of the party."
         },
         {
             "name": "delapouite/full-wood-bucket-handle",
@@ -3777,7 +3887,7 @@
         },
         {
             "name": "delapouite/gargoyle",
-            "tags": "creature stone",
+            "tags": "creature statue stone",
             "description": "This winged monster seat on top of churches or castles and take care of the rain."
         },
         {
@@ -4376,6 +4486,11 @@
             "description": "Street wear to keep the head and hands warm."
         },
         {
+            "name": "delapouite/hook",
+            "tags": "tool",
+            "description": "A metal spike to suspend heavy objects or meat."
+        },
+        {
             "name": "delapouite/hops",
             "tags": "plant",
             "description": "Flowers used to flavored beer and give it the bitter taste like in Indian Pale Ales."
@@ -4481,6 +4596,11 @@
             "description": "This is the vertical bar needed to remove 4 rows in one delightful action."
         },
         {
+            "name": "delapouite/ibis",
+            "tags": "bird egypt",
+            "description": "A long legged wading bird that inhabit wetlands and swamps. They look like herons."
+        },
+        {
             "name": "delapouite/icarus",
             "tags": "greek-roman star wing",
             "description": "Icarus was getting to close of the sun and felt to his death like a doomed angel."
@@ -4491,6 +4611,11 @@
             "description": "A fresh dessert with many flavors : chocolate, vanilla, fruit... It's perfect for summer times."
         },
         {
+            "name": "delapouite/ice-cream-scoop",
+            "tags": "kitchenware",
+            "description": "A speficic spoon to make perfect cold dessert balls."
+        },
+        {
             "name": "delapouite/ice-cubes",
             "tags": "glass ice",
             "description": "A fresh beverage to eliminate the thirst."
@@ -4499,6 +4624,11 @@
             "name": "delapouite/ice-golem",
             "tags": "creature ice viking",
             "description": "A terrific and powerful giant made of hard and shiny ice. This kind of monster is vulnerable to fire attacks."
+        },
+        {
+            "name": "delapouite/ice-iris",
+            "tags": "eye ice",
+            "description": "A cold stare that freezes the target."
         },
         {
             "name": "delapouite/ice-pop",
@@ -4594,6 +4724,11 @@
             "name": "delapouite/ionic-column",
             "tags": "building greek-roman",
             "description": "Special order pillar to support the roof of ancient temple."
+        },
+        {
+            "name": "delapouite/iraq",
+            "tags": "map",
+            "description": "Country in the Middle East, with Badgad as capital"
         },
         {
             "name": "delapouite/island",
@@ -4861,9 +4996,19 @@
             "description": "This white blouse belongs to a scientist or a doctor."
         },
         {
+            "name": "delapouite/labrador-head",
+            "tags": "animal mammal",
+            "description": "This dog is good boy, a nice pet to take care of."
+        },
+        {
             "name": "delapouite/ladder",
             "tags": "building tool",
             "description": "To climb upstairs to the next floor or go down in a basement."
+        },
+        {
+            "name": "delapouite/ladders-platform",
+            "tags": "tool",
+            "description": "A climing path leading to a kong and a princess."
         },
         {
             "name": "delapouite/ladle",
@@ -4874,6 +5019,11 @@
             "name": "delapouite/ladybug",
             "tags": "insect",
             "description": "This round red bug can fly and is friendly to gardener."
+        },
+        {
+            "name": "delapouite/laptop",
+            "tags": "electronic household",
+            "description": "A personal computer with everything included: screen, and laptop in a portble unit."
         },
         {
             "name": "delapouite/large-dress",
@@ -4914,6 +5064,11 @@
             "name": "delapouite/leak",
             "tags": "liquid",
             "description": "These drops will form an ocean… soon."
+        },
+        {
+            "name": "delapouite/leapfrog",
+            "tags": "action sport",
+            "description": "A high jump above a sport partner during a gymnastics exercise."
         },
         {
             "name": "delapouite/leather-armor",
@@ -5026,6 +5181,11 @@
             "description": "An electrical experimentation is happening in this glass bubble."
         },
         {
+            "name": "delapouite/lightning-flame",
+            "tags": "fire lightning",
+            "description": "During a violent storm, trees are vulnerable to lightining which can set them ablaze."
+        },
+        {
             "name": "delapouite/lily-pads",
             "tags": "egypt liquid plant",
             "description": "Huge round leaves floating in ponds where the frogs can rest in the shadow of magnificent flowers."
@@ -5043,7 +5203,7 @@
         {
             "name": "delapouite/load",
             "tags": "electronic gui",
-            "description": "Lading data from a floppy disk"
+            "description": "Loading data from a floppy disk to restore a saved file, and continue the game where it was previously stopped."
         },
         {
             "name": "delapouite/lock-picking",
@@ -5191,6 +5351,11 @@
             "description": "Ammo for an automatic weapon. It needs to be reloaded oftern."
         },
         {
+            "name": "delapouite/magic-axe",
+            "tags": "axe",
+            "description": "Runes offers a mystical energy to this weapon that can cut through metal like butter."
+        },
+        {
             "name": "delapouite/magic-hat",
             "tags": "circus hat",
             "description": "A white rabbit is revealed by the magician in this famous trick."
@@ -5329,6 +5494,11 @@
             "name": "delapouite/medicines",
             "tags": "chemical life",
             "description": "A handful of drugs to heal nasty diseases and restore body energy to its maximum."
+        },
+        {
+            "name": "delapouite/medieval-barracks",
+            "tags": "building",
+            "description": "This garnison is the training ground for infantry soldiers.\nA military camp like this one is well prepared for attack."
         },
         {
             "name": "delapouite/medieval-gate",
@@ -5472,7 +5642,7 @@
         },
         {
             "name": "delapouite/moai",
-            "tags": "building civilization",
+            "tags": "building civilization statue",
             "description": "Enigmatic statue on Easter island in the Pacific Ocean."
         },
         {
@@ -5566,6 +5736,11 @@
             "description": "A dark entrance to explore the undergrounds, probably a mine."
         },
         {
+            "name": "delapouite/mountain-road",
+            "tags": "nature",
+            "description": "This twisted path can reach the summits of this mountain range."
+        },
+        {
             "name": "delapouite/mouse",
             "tags": "electronic gui household video-game",
             "description": "Computer device to move the cursor and click on links. More precise than a keyboard."
@@ -5649,6 +5824,11 @@
             "name": "delapouite/nachos",
             "tags": "food mexico",
             "description": "Tortilla chips covered with melted cheese that may dipped in guacamole."
+        },
+        {
+            "name": "delapouite/nano-bot",
+            "tags": "robot",
+            "description": "This microscopic robot can penetrated in blood vessels to perform work."
         },
         {
             "name": "delapouite/neck-bite",
@@ -5746,6 +5926,11 @@
             "description": "A power factory feeding the electric grid by breaking uranium atoms and vomiting steam through huge chimneys."
         },
         {
+            "name": "delapouite/nuclear-waste",
+            "tags": "chemical container",
+            "description": "Barrels with a hazard sign warning about the dangerous radioactive content inside."
+        },
+        {
             "name": "delapouite/nunchaku",
             "tags": "ninja weapon",
             "description": "Asian martial nunchuks made of two sticks connected by a chain. This is the weapon of choice of Michelangelo."
@@ -5822,8 +6007,8 @@
         },
         {
             "name": "delapouite/old-lantern",
-            "tags": "light steampunk",
-            "description": "This object needs oil to produce a dim light."
+            "tags": "light steampunk western",
+            "description": "This object needs oil to produce a dim light. It can be used to brighten the darkness of a mine."
         },
         {
             "name": "delapouite/old-microphone",
@@ -6036,6 +6221,11 @@
             "description": "It's new year's eve and every guests at the party is disguised as a fool."
         },
         {
+            "name": "delapouite/party-popper",
+            "tags": "household",
+            "description": "A small explosive cone for birthday parties or new year eves."
+        },
+        {
             "name": "delapouite/passport",
             "tags": "book",
             "description": "An official document providing indentity needed to cross borders and visit other countries."
@@ -6104,6 +6294,11 @@
             "name": "delapouite/pencil",
             "tags": "book gui household",
             "description": "Wooden pen to write things down on paper, like an official document or a letter."
+        },
+        {
+            "name": "delapouite/pendant-key",
+            "tags": "jewellery lock string",
+            "description": "This key is always carried around someone's neck, so it has to open a precious lock."
         },
         {
             "name": "delapouite/pendulum-swing",
@@ -6202,7 +6397,7 @@
         },
         {
             "name": "delapouite/pharoah",
-            "tags": "egypt mask",
+            "tags": "egypt mask statue",
             "description": "God among slaves, wearing beautiful jewelry."
         },
         {
@@ -6366,6 +6561,11 @@
             "description": "The area can be calculated with a power of 2."
         },
         {
+            "name": "delapouite/plane-pilot",
+            "tags": "head",
+            "description": "With special goggles, this driver can flight for long distances."
+        },
+        {
             "name": "delapouite/plane-wing",
             "tags": "vehicle wing",
             "description": "Needed on both side of the air plane to make it fly through the air."
@@ -6389,6 +6589,11 @@
             "name": "delapouite/plant-roots",
             "tags": "farm plant",
             "description": "The underground network of a flower, growing in the soil."
+        },
+        {
+            "name": "delapouite/plant-watering",
+            "tags": "farm liquid plant",
+            "description": "Rain or nutritive water coming from a can is the most basic secret to keep plant growing."
         },
         {
             "name": "delapouite/plastic-duck",
@@ -6531,6 +6736,11 @@
             "description": "A tuberous vegetable from America which is now ubiquitous in meals: mash, chips, crisps…\nIt's also a good battery for Glados."
         },
         {
+            "name": "delapouite/pouring-pot",
+            "tags": "kitchenware liquid",
+            "description": "This bottle can carry milk or water during meals."
+        },
+        {
             "name": "delapouite/powder-bag",
             "tags": "bag",
             "description": "A big burlap bag with tiny grains, like seeds, salt or sugar. It can also be spices."
@@ -6584,6 +6794,11 @@
             "name": "delapouite/primitive-torch",
             "tags": "fire wood stone-age",
             "description": "Like a big match with a longer lifetime to pierce into a darkness."
+        },
+        {
+            "name": "delapouite/prism",
+            "tags": "glass light",
+            "description": "The light ray going through this piece of glass feels like The Dark side of the Moon."
         },
         {
             "name": "delapouite/prisoner",
@@ -6826,6 +7041,11 @@
             "description": "In case of victory, the name of the winner will be attached to the fabric."
         },
         {
+            "name": "delapouite/ring-box",
+            "tags": "jewellery",
+            "description": "This gem on a ring can be offered as a present during a wedding ceremony between spouses."
+        },
+        {
             "name": "delapouite/ring-mould",
             "tags": "metal tool",
             "description": "Melted gold flows through the pattern to forge new jewellery."
@@ -6876,6 +7096,11 @@
             "description": "Capturing ultra-waves signals is the specialty of this mobile computer that can then vocalize the results."
         },
         {
+            "name": "delapouite/robot-grab",
+            "tags": "claw robot",
+            "description": "A pincer with rotative parts, a hand for androids."
+        },
+        {
             "name": "delapouite/robot-helmet",
             "tags": "head robot",
             "description": "A mask with a respiratory system and thick metal plates."
@@ -6909,6 +7134,11 @@
             "name": "delapouite/rolled-cloth",
             "tags": "catan clothing",
             "description": "A textile piece, made of linen or synthetic fabric. Can be turned in shirts, carpets, curtains…"
+        },
+        {
+            "name": "delapouite/roller-skate",
+            "tags": "boot sport",
+            "description": "Wheels under a shoe to roll on a track like a pro."
         },
         {
             "name": "delapouite/rolling-dice-cup",
@@ -7081,6 +7311,11 @@
             "description": "A bar where cowboys, gangsters enjoy a drink listening to piano."
         },
         {
+            "name": "delapouite/samara-mosque",
+            "tags": "building",
+            "description": "This huge minaret, located in Iraq was completed during the 9th century."
+        },
+        {
             "name": "delapouite/samurai-helmet",
             "tags": "hat ninja",
             "description": "This medieval Japanese protection was the inspiration for Darth Vader helmet"
@@ -7196,6 +7431,11 @@
             "description": "Need a screwdriver to keep the two pieces together."
         },
         {
+            "name": "delapouite/scroll-quill",
+            "tags": "book",
+            "description": "A long handwritten document that must be rolled and sealed. Probably a will."
+        },
+        {
             "name": "delapouite/scuba-mask",
             "tags": "mask sea sport",
             "description": "A breathing equipment used by divers while snorkeling. This one is perfect to explore reefs in apnea."
@@ -7249,6 +7489,11 @@
             "name": "delapouite/sergeant",
             "tags": "rank",
             "description": "3 stripes for this military rank is a symbol of respect and experience on the battlefield."
+        },
+        {
+            "name": "delapouite/server-rack",
+            "tags": "electronic",
+            "description": "These computers are connected to the network as storage and computational units.\nThey compose the Cloud."
         },
         {
             "name": "delapouite/sesame",
@@ -7341,6 +7586,11 @@
             "description": "No need of a sword when you want to smash your opponent head with a quick jab!"
         },
         {
+            "name": "delapouite/shield-impact",
+            "tags": "shield",
+            "description": "The material of this shield is not strong enough to block the tip of this arrow."
+        },
+        {
             "name": "delapouite/shinto-shrine-mirror",
             "tags": "household ninja",
             "description": "This reflective disc on top of a wooden pedestal is a mystical and religious object."
@@ -7358,7 +7608,7 @@
         {
             "name": "delapouite/ship-wheel",
             "tags": "boat pirate sea",
-            "description": "The captain uses it to steer its boat on the right course."
+            "description": "The captain uses this helm to steer its boat on the right course and avoid treacherous reefs."
         },
         {
             "name": "delapouite/ship-wreck",
@@ -7601,6 +7851,11 @@
             "description": "Famous flying object in the Harry Potter saga."
         },
         {
+            "name": "delapouite/soap",
+            "tags": "household",
+            "description": "A bubbling chemical product to clean the body or houses."
+        },
+        {
             "name": "delapouite/soccer-ball",
             "tags": "ball sport toy",
             "description": "Score goals and get the praises of the football stadium by hitting this checkered ball with your feet."
@@ -7694,6 +7949,11 @@
             "name": "delapouite/spain",
             "tags": "map",
             "description": "South European country at the origin of huge empires during the conquest of Americas."
+        },
+        {
+            "name": "delapouite/sparkles",
+            "tags": "star",
+            "description": "Magic fairy dust shining in the dark."
         },
         {
             "name": "delapouite/spartan-helmet",
@@ -7982,7 +8242,7 @@
         },
         {
             "name": "delapouite/stone-bust",
-            "tags": "body greek-roman stone",
+            "tags": "body greek-roman statue stone",
             "description": "This piece of art from a museum is a marble statue representing the muscular chest of some famous ancient aristocrat."
         },
         {
@@ -8121,6 +8381,11 @@
             "description": "During dusk, the sun disappears behind the horizon. It's the end of the day, the Milky Way is ready to shine."
         },
         {
+            "name": "delapouite/surf-board",
+            "tags": "australia sea sport",
+            "description": "Catch the wave during a warm summy afternoon on the beach."
+        },
+        {
             "name": "delapouite/sushis",
             "tags": "fish food ninja",
             "description": "A portion of rice with a slice of salmon on top."
@@ -8196,6 +8461,11 @@
             "description": "This warrior is a blade master that summons higher energy spirits. This crucial moment is full of glory."
         },
         {
+            "name": "delapouite/sydney-opera-house",
+            "tags": "australia building",
+            "description": "A famous landmarks in New South Wales."
+        },
+        {
             "name": "delapouite/t-brick",
             "tags": "block",
             "description": ""
@@ -8244,6 +8514,11 @@
             "name": "delapouite/tangerine",
             "tags": "food fruit",
             "description": "A small version of an orange, a cousin of mandarine."
+        },
+        {
+            "name": "delapouite/tanzania",
+            "tags": "map",
+            "description": "Country of South East Africa. Its capital is Dodoma."
         },
         {
             "name": "delapouite/tap",
@@ -8319,6 +8594,11 @@
             "name": "delapouite/tennis-racket",
             "tags": "sport",
             "description": "To exchange balls during a match Wembley or Roland Garros."
+        },
+        {
+            "name": "delapouite/tentacles-barrier",
+            "tags": "tentacle trap",
+            "description": "Three tentacles acting like an obstacle in a corridor."
         },
         {
             "name": "delapouite/texas",
@@ -8419,6 +8699,11 @@
             "name": "delapouite/tightrope",
             "tags": "bridge body circus sport",
             "description": "A good balance is needed during funambulism exhibitions. This person is an expert in agility and nimbleness."
+        },
+        {
+            "name": "delapouite/time-synchronization",
+            "tags": "time",
+            "description": "The watches need a common point of reference to keep track of time.\nHours and minutes are up to date."
         },
         {
             "name": "delapouite/tipi",
@@ -8551,6 +8836,11 @@
             "description": "Recycle bin to throw away things to the garbage."
         },
         {
+            "name": "delapouite/travel-dress",
+            "tags": "clothing",
+            "description": "This long dress is perfect for a long journey on a horse back."
+        },
+        {
             "name": "delapouite/trebuchet",
             "tags": "machine vehicle",
             "description": "A huge siege machine, like a tall catapult, used to destroy enemy walls."
@@ -8606,6 +8896,11 @@
             "description": "Triangles combined into a relics from the gods : wisdom, power and courage."
         },
         {
+            "name": "delapouite/trinacria",
+            "tags": "greek-roman symbol",
+            "description": "Symbol made of 3 legs, found on the flag of Sicily in Italy."
+        },
+        {
             "name": "delapouite/triple-gate",
             "tags": "building door",
             "description": "Three doors leading inside a huge hall."
@@ -8629,6 +8924,11 @@
             "name": "delapouite/trojan-horse",
             "tags": "animal greek-roman machine toy trap vehicle",
             "description": "Huge wooden decoy used by the Greeks to capture the city of Troy."
+        },
+        {
+            "name": "delapouite/trophies-shelf",
+            "tags": "rank sport",
+            "description": "After years of competition, all cups are displayed in the victory hall."
         },
         {
             "name": "delapouite/trophy-cup",
@@ -8801,6 +9101,11 @@
             "description": "External memory stick to store important data if you manage to plug in the right way on the first try."
         },
         {
+            "name": "delapouite/ushanka",
+            "tags": "hat star",
+            "description": "This fur hat protects from the Siberian cold and snow."
+        },
+        {
             "name": "delapouite/uzi",
             "tags": "gun weapon",
             "description": "Small Israeli submachine gun with a high firing rate."
@@ -8857,7 +9162,7 @@
         },
         {
             "name": "delapouite/venus-of-willendorf",
-            "tags": "body stone stone-age symbol",
+            "tags": "body statue stone stone-age symbol",
             "description": "A statue representing women and fertility in old beliefs."
         },
         {
@@ -9071,6 +9376,11 @@
             "description": "Aquatic ball sport in a swimming pool."
         },
         {
+            "name": "delapouite/water-recycling",
+            "tags": "liquid",
+            "description": "The water goes through a cleaning process before being released back to the nature."
+        },
+        {
             "name": "delapouite/water-tank",
             "tags": "building farm liquid",
             "description": "A reservoir distributing water trough pipes in a small town."
@@ -9144,6 +9454,11 @@
             "name": "delapouite/whistle",
             "tags": "police sound sport",
             "description": "Produce a strident sound. Used by referees to signal penalties or end of games."
+        },
+        {
+            "name": "delapouite/wifi-router",
+            "tags": "electronic household",
+            "description": "To connect the devices of your home network to the Internet."
         },
         {
             "name": "delapouite/wind-turbine",
@@ -9528,7 +9843,10 @@
         {
             "name": "lorc/all-for-one",
             "tags": "blade weapon",
-            "description": "\"All for one, one for all\" a musketeers apology praising team work to defeat foes.\""
+            "description": "\"All for one, one for all\"",
+            "__parsed_extra": [
+                " a musketeers apology praising team work to defeat foes.\""
+            ]
         },
         {
             "name": "lorc/alligator-clip",
@@ -11727,7 +12045,7 @@
         },
         {
             "name": "lorc/explosive-materials",
-            "tags": "energy explosion light",
+            "tags": "bomb energy explosion light",
             "description": "The core is broken and long straight rays precede a huge detonation."
         },
         {
@@ -11952,7 +12270,7 @@
         },
         {
             "name": "lorc/fission",
-            "tags": "explosion",
+            "tags": "bomb explosion",
             "description": "Atom nucleus about to release a huge amount of energy."
         },
         {
@@ -12014,6 +12332,11 @@
             "name": "lorc/flat-hammer",
             "tags": "hammer tool",
             "description": "For stubborn nails which need the correct hit."
+        },
+        {
+            "name": "lorc/flat-paw-print",
+            "tags": "animal claw",
+            "description": "A more aggressive version than the gentle print you can see in the Nintendogs logo."
         },
         {
             "name": "lorc/flat-star",
@@ -13012,7 +13335,7 @@
         },
         {
             "name": "lorc/land-mine",
-            "tags": "explosion trap",
+            "tags": "bomb explosion trap",
             "description": "A deadly explosive device hidden in the ground waiting for an unfortunate foot to trigger it."
         },
         {
@@ -13707,7 +14030,7 @@
         },
         {
             "name": "lorc/mushroom-cloud",
-            "tags": "energy explosion smoke mushroom world-wars",
+            "tags": "bomb energy explosion smoke mushroom world-wars",
             "description": "That is the kind of spectacle you can expect in Fallout if you decide to follow the dark path."
         },
         {
@@ -13959,11 +14282,6 @@
             "name": "lorc/pawn",
             "tags": "board",
             "description": "Checkmate. The king is dead, long live the king."
-        },
-        {
-            "name": "lorc/pawprint",
-            "tags": "claw",
-            "description": "A more aggressive version than the gentle print you can see in the Nintendogs logo."
         },
         {
             "name": "lorc/peaks",
@@ -14567,8 +14885,8 @@
         },
         {
             "name": "lorc/scarecrow",
-            "tags": "bird",
-            "description": "To protect crops fields from hungry birds."
+            "tags": "bird farm",
+            "description": "A dummy doll to protect crops fields from hungry birds."
         },
         {
             "name": "lorc/scissors",
@@ -15322,8 +15640,8 @@
         },
         {
             "name": "lorc/squib",
-            "tags": "explosion",
-            "description": "Small fragments."
+            "tags": "bomb explosion",
+            "description": "Small fragments of an explosive device that just turned into dust."
         },
         {
             "name": "lorc/squid-head",
@@ -15387,7 +15705,7 @@
         },
         {
             "name": "lorc/static-guard",
-            "tags": "body",
+            "tags": "body statue",
             "description": "Protector of a fortress standing in an inflexible position."
         },
         {
@@ -17578,12 +17896,12 @@
         {
             "name": "skoll/famas",
             "tags": "gun police weapon",
-            "description": "An assault rifle, literally \"Fusil d'Assaut de la Manufacture d'Armes de Saint-Étienne\"."
+            "description": "An assault rifle, literally \"Fusil d'Assaut de la Manufacture d'Armes de Saint-Étienne.\""
         },
         {
-          "name": "skoll/fangs",
-          "tags": "mouth vampire",
-          "description": "Dracula's teeth ready to bite."
+            "name": "skoll/fangs",
+            "trags": "mouth vampire",
+            "description": "Dracula's teeth ready to bite."
         },
         {
             "name": "skoll/fat",
@@ -18103,12 +18421,12 @@
         {
             "name": "skoll/thompson-m1",
             "tags": "gun world-wars",
-            "description": ""
+            "description": "This weapon is a .45 caliber semi-automatic, one of the most emblematic American submachine gun of World War II."
         },
         {
             "name": "skoll/thompson-m1928",
             "tags": "gun",
-            "description": ""
+            "description": "This weapon is a follow-up on the 1921 models with weight added to the actuator."
         },
         {
             "name": "skoll/topaz",
@@ -18788,7 +19106,7 @@
         {
             "name": "willdabeast/black-book",
             "tags": "book",
-            "description": "A dark cover novel"
+            "description": "A dark cover novel with ancient stories about war, evil and sacrilegious spells."
         },
         {
             "name": "willdabeast/chain-lightning",
@@ -18818,7 +19136,7 @@
         {
             "name": "willdabeast/white-book",
             "tags": "book",
-            "description": "A bright cover novel"
+            "description": "A bright cover novel with legends about virtous kingdoms and recipes to prepare cures."
         },
         {
             "name": "zajkonur/skull-with-syringe",
@@ -18863,48 +19181,48 @@
             "type": "Quotes",
             "code": "InvalidQuotes",
             "message": "Trailing quote on quoted field is malformed",
-            "row": 309,
-            "index": 33199
+            "row": 317,
+            "index": 34271
         },
         {
             "type": "Quotes",
             "code": "InvalidQuotes",
             "message": "Trailing quote on quoted field is malformed",
-            "row": 309,
-            "index": 33199
+            "row": 317,
+            "index": 34271
         },
         {
             "type": "Quotes",
             "code": "InvalidQuotes",
             "message": "Trailing quote on quoted field is malformed",
-            "row": 1906,
-            "index": 207209
+            "row": 1969,
+            "index": 214300
         },
         {
             "type": "Quotes",
             "code": "InvalidQuotes",
             "message": "Trailing quote on quoted field is malformed",
-            "row": 3516,
-            "index": 359402
+            "row": 3579,
+            "index": 366606
         },
         {
             "type": "Quotes",
             "code": "InvalidQuotes",
             "message": "Trailing quote on quoted field is malformed",
-            "row": 3516,
-            "index": 359402
+            "row": 3579,
+            "index": 366606
         },
         {
             "type": "FieldMismatch",
             "code": "TooManyFields",
             "message": "Too many fields: expected 3 fields but parsed 4",
-            "row": 1905
+            "row": 1968
         },
         {
             "type": "FieldMismatch",
             "code": "TooFewFields",
             "message": "Too few fields: expected 3 fields but parsed 1",
-            "row": 3765
+            "row": 3828
         }
     ],
     "meta": {
@@ -18912,7 +19230,7 @@
         "linebreak": "\n",
         "aborted": false,
         "truncated": false,
-        "cursor": 375854,
+        "cursor": 383382,
         "fields": [
             "name",
             "tags",

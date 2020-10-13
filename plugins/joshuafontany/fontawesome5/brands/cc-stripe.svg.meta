@@ -2,6 +2,6 @@ caption: cc-stripe
 description: Stripe Credit Card
 name: brands/cc-stripe
 style: brands
-tags: $:/tags/Image payments-shopping
+tags: $:/tags/Icon payments-shopping
 title: $:/icons/fontawesome5/brands/cc-stripe
 type: 

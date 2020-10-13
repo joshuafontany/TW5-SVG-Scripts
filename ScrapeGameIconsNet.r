@@ -37,14 +37,24 @@ allDescriptions = list()
 for(icon in iconNames[1:length(iconNames)]){
     if(!length(icon)) next
     print(paste(icon, glue('https://game-icons.net/1x1/{icon}.html'), sep=": "))
-    page = read_html(glue('https://game-icons.net/1x1/{icon}.html'))
-    tags =page %>% 
-        html_nodes('a[rel="tag"]') %>% 
-        html_text()
-    allTags[[icon]] = tags
-    
-    description = page %>% html_node('.description') %>% html_text(trim=TRUE)
-    allDescriptions[[icon]] = description
+    tryCatch(
+        {
+            page = read_html(glue('https://game-icons.net/1x1/{icon}.html'))
+            tags =page %>% 
+                html_nodes('a[rel="tag"]') %>% 
+                html_text()
+            allTags[[icon]] = tags
+            
+            description = page %>% html_node('.description') %>% html_text(trim=TRUE)
+            allDescriptions[[icon]] = description
+        },
+        error=function(cond) {
+            print(paste("URL does not seem to exist:", glue('https://game-icons.net/1x1/{icon}.html')))
+            print("Here's the original error message:")
+            print(cond)
+            return(NA)
+        }
+    )
 }
 
 allTags %>%

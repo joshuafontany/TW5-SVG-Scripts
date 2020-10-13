@@ -2,6 +2,6 @@ caption: battery-three-quarters
 description: Battery 3/4 Full
 name: solid/battery-three-quarters
 style: solid
-tags: $:/tags/Image energy status charge power status
+tags: $:/tags/Icon energy status charge power status
 title: $:/icons/fontawesome5/solid/battery-three-quarters
 type: 

@@ -102,7 +102,7 @@ fs.readFile(source, 'utf-8', (err, data) => {
                     throw(error) ; 
                 }
                 var meta = {},
-                    baseTags = ["$:/tags/Image"];
+                    baseTags = ["$:/tags/Icon"];
                 for (let j = 0; j < yamlKeys.length; j++) {
                     var cat = yamlKeys[j],
                         catObj = yamlData[cat];

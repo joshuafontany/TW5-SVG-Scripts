@@ -2,6 +2,6 @@ caption: id-card
 description: Identification Card
 name: regular/id-card
 style: regular
-tags: $:/tags/Image images security users-people contact demographics document identification issued profile
+tags: $:/tags/Icon images security users-people contact demographics document identification issued profile
 title: $:/icons/fontawesome5/regular/id-card
 type: 

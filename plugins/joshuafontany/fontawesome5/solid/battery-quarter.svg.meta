@@ -2,6 +2,6 @@ caption: battery-quarter
 description: Battery 1/4 Full
 name: solid/battery-quarter
 style: solid
-tags: $:/tags/Image energy status charge low power status
+tags: $:/tags/Icon energy status charge low power status
 title: $:/icons/fontawesome5/solid/battery-quarter
 type: 

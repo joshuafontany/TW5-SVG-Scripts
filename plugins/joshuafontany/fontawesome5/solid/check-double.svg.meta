@@ -2,6 +2,6 @@ caption: check-double
 description: Double Check
 name: solid/check-double
 style: solid
-tags: $:/tags/Image interfaces political accept agree checkmark confirm correct done notice notification notify ok select success tick todo
+tags: $:/tags/Icon interfaces political accept agree checkmark confirm correct done notice notification notify ok select success tick todo
 title: $:/icons/fontawesome5/solid/check-double
 type: 

@@ -2,6 +2,6 @@ caption: imdb
 description: IMDB
 name: brands/imdb
 style: brands
-tags: $:/tags/Image
+tags: $:/tags/Icon
 title: $:/icons/fontawesome5/brands/imdb
 type: 

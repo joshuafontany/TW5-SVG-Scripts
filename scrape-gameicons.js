@@ -36,7 +36,7 @@ callR(rscriptPath)
 .then(result => {
     console.log("R script - finished with result:\n", result);
     console.log("Converting CSV to JSON...");
-
+    
     var source = './gameicons/iconTags.csv';
     var dest = './gameicons/iconTags.json';
 

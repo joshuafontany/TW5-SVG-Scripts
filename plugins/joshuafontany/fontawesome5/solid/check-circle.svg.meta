@@ -2,6 +2,6 @@ caption: check-circle
 description: Check Circle
 name: solid/check-circle
 style: solid
-tags: $:/tags/Image interfaces toggle accept agree confirm correct done ok select success tick todo yes
+tags: $:/tags/Icon interfaces toggle accept agree confirm correct done ok select success tick todo yes
 title: $:/icons/fontawesome5/solid/check-circle
 type: 

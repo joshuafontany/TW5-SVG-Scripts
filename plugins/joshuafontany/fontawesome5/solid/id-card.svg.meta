@@ -2,6 +2,6 @@ caption: id-card
 description: Identification Card
 name: solid/id-card
 style: solid
-tags: $:/tags/Image images security users-people contact demographics document identification issued profile
+tags: $:/tags/Icon images security users-people contact demographics document identification issued profile
 title: $:/icons/fontawesome5/solid/id-card
 type: 

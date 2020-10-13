@@ -61,7 +61,7 @@ fs.readFile(source, 'utf-8', (err, fileContent) => {
         var filePath = path.resolve("plugins", "joshuafontany", "gameicons", svg.name.split('/')[0]);
         var fileName = svg.name.split('/')[1]+".svg.meta";
         var loc = path.resolve(filePath, fileName);
-        var baseTags = ["$:/tags/Image"];
+        var baseTags = ["$:/tags/Icon"];
         svg.fields = {
             title: "$:/icons/gameicons/"+svg.name,
             type: "",
@@ -95,7 +95,11 @@ fs.readFile(source, 'utf-8', (err, fileContent) => {
     if (error) {
         throw error;
     } else {
-        console.log("success!");
+        console.log("Folder copy success!");
+        //Delete the "badges" folder (no meta-data)
+        if(fs.existsSync(path.resolve(destinationDir, "badges"))){
+            fs.rmdirSync(path.resolve(destinationDir, "badges"), { recursive: true });
+        }
     }
     });
 });

@@ -2,6 +2,6 @@ caption: tripadvisor
 description: TripAdvisor
 name: brands/tripadvisor
 style: brands
-tags: $:/tags/Image
+tags: $:/tags/Icon
 title: $:/icons/fontawesome5/brands/tripadvisor
 type: 

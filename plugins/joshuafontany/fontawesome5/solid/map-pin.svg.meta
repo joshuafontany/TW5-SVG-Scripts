@@ -2,6 +2,6 @@ caption: map-pin
 description: Map Pin
 name: solid/map-pin
 style: solid
-tags: $:/tags/Image maps objects address agree coordinates destination gps localize location map marker navigation pin place position travel
+tags: $:/tags/Icon maps objects address agree coordinates destination gps localize location map marker navigation pin place position travel
 title: $:/icons/fontawesome5/solid/map-pin
 type: 

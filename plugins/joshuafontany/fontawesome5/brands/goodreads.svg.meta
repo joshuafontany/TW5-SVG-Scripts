@@ -2,6 +2,6 @@ caption: goodreads
 description: Goodreads
 name: brands/goodreads
 style: brands
-tags: $:/tags/Image
+tags: $:/tags/Icon
 title: $:/icons/fontawesome5/brands/goodreads
 type: 

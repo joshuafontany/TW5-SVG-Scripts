@@ -2,6 +2,6 @@ caption: volume-off
 description: Volume Off
 name: solid/volume-off
 style: solid
-tags: $:/tags/Image audio-video interfaces music status audio ban music mute quiet silent sound
+tags: $:/tags/Icon audio-video interfaces music status audio ban music mute quiet silent sound
 title: $:/icons/fontawesome5/solid/volume-off
 type: 
