@@ -1,0 +1,6 @@
+caption: card-pickup
+description: Select a random card in the pile. If you're lucky it will benefit your strategy during this turn.
+name: quoting/card-pickup
+tags: $:/tags/Icon board hand
+title: $:/icons/gameicons/quoting/card-pickup
+type: 

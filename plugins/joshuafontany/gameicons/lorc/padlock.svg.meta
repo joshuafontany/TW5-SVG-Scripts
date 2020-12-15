@@ -1,0 +1,6 @@
+caption: padlock
+description: May protect a door or a chest. Only the corresponding key can open it.
+name: lorc/padlock
+tags: $:/tags/Icon lock
+title: $:/icons/gameicons/lorc/padlock
+type: 
