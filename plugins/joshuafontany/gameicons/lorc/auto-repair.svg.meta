@@ -1,0 +1,7 @@
+caption: auto-repair
+description: No need to go to the mechanic with this spanner which provides immediate fixes.
+Just turn the wrench clockwise and the cog will fit the right position in the engine.
+name: lorc/auto-repair
+tags: $:/tags/Icon gui machine tool
+title: $:/icons/gameicons/lorc/auto-repair
+type: 

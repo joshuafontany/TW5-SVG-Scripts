@@ -1,0 +1,11 @@
+caption: logic-gate-nand
+description: INPUT OUTPUT
+A B A NAND B
+0 0 1
+0 1 1
+1 0 1
+1 1 0
+name: delapouite/logic-gate-nand
+tags: $:/tags/Icon electronic symbol
+title: $:/icons/gameicons/delapouite/logic-gate-nand
+type: 

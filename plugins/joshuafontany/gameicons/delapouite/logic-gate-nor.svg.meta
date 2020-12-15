@@ -1,0 +1,11 @@
+caption: logic-gate-nor
+description: INPUT OUTPUT
+A B A NOR B
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+name: delapouite/logic-gate-nor
+tags: $:/tags/Icon electronic symbol
+title: $:/icons/gameicons/delapouite/logic-gate-nor
+type: 
